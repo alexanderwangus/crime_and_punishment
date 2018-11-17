@@ -1,0 +1,723 @@
+event,end,start,v_decile_score,vr_charge_desc,vr_offense_date,vr_charge_degree,is_violent_recid,r_charge_desc,r_charge_degree,r_offense_day_from_endjail,is_recid,c_charge_desc,decile_score,age_cat,last,first,id,sex,age,juv_fel_count,juv_misd_count,juv_other_count,priors_count,c_charge_degree,days_in,decile_score,score_text,v_score_text,priors_count,race_is_0,race_is_1,race_is_2,race_is_3,race_is_4,race_is_5,race_is_6,two_year_recid
+1,699,1,8,,,,0,Possess Cannabis/20 Grams Or Less,0,698,1,arrest case no charge,7,0,smith,jeremy,6946,1,22,0,1,0,2,1,2,7,1,2,2,1,0,0,0,0,0,0,1
+0,1045,0,1,,,,0,,,,0,Viol Injunction Protect Dom Vi,2,2,figueiredo,robson,9530,1,49,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0
+0,466,0,8,,,,0,,,,0,Carrying Concealed Firearm,8,0,theoc,saloman,10292,1,21,0,0,0,0,1,1,8,2,2,0,1,0,0,0,0,0,0,0
+1,485,32,5,,,,0,Petit Theft,1,453,1,Burglary Dwelling Assault/Batt,4,0,delacruz,jerko,9079,1,22,0,0,0,0,1,33,4,0,1,0,0,0,0,1,0,0,0,1
+0,846,0,3,,,,0,,,,0,Grand Theft in the 3rd Degree,3,1,hyppolite,jonadia,4872,0,28,0,0,0,3,1,1,3,0,0,3,1,0,0,0,0,0,0,0
+0,425,0,3,,,,0,,,,0,Driving While License Revoked,7,1,curry,brent,10645,1,31,0,0,0,0,1,0,7,1,0,0,1,0,0,0,0,0,0,0
+1,523,0,5,,,,0,Operating W/O Valid License,1,523,1,arrest case no charge,4,0,jones,tiarra,5061,0,21,0,0,0,1,1,1,4,0,1,1,1,0,0,0,0,0,0,1
+0,747,30,10,,,,0,,,,0,Burglary Unoccupied Dwelling,10,0,wright,jamar,10214,1,23,1,1,2,4,1,31,10,2,2,4,1,0,0,0,0,0,0,0
+0,1137,0,3,,,,0,,,0,0,Battery,2,2,delacruz,jose,4902,1,53,0,0,0,3,0,0,2,0,0,3,0,0,0,1,0,0,0,0
+0,1053,2,1,,,,0,,,,0,Battery,2,2,kosinskii,vitali,9785,1,47,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0
+0,837,0,1,,,,0,,,,0,Battery,1,1,james,naita,5769,0,32,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0
+0,148,19,1,,,,0,,,,0,Grand Theft in the 3rd Degree,8,2,hay,victoria,1076,0,46,0,0,0,2,1,20,8,2,0,2,0,0,1,0,0,0,0,0
+1,803,0,2,Battery on Law Enforc Officer,10/8/15,5,1,Possess Cannabis/20 Grams Or Less,0,803,1,Battery,3,1,moncur,nicole,1859,0,34,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0
+0,140,29,2,,,,0,,,,0,Grand Theft in the 3rd Degree,7,2,conde,juan,3626,1,50,0,0,0,0,1,30,7,1,0,0,0,0,1,0,0,0,0,0
+1,32,0,3,,,,0,Susp Drivers Lic 1st Offense,1,35,1,arrest case no charge,2,1,vaughn,aven,10733,1,28,0,0,0,2,1,1,2,0,0,2,1,0,0,0,0,0,0,1
+1,90,1,7,Aggrav Battery w/Deadly Weapon,9/5/13,4,1,Aggrav Battery w/Deadly Weapon,4,89,1,Battery,8,1,burrows,jermaine,10274,1,35,0,0,0,0,0,2,8,2,1,0,1,0,0,0,0,0,0,1
+0,1081,0,1,,,,0,,,,0,Robbery / No Weapon,1,1,mckenzie,vernee,918,0,38,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0
+1,82,32,3,,,,0,Trespass Struct/Conveyance,1,50,1,Possession of Cocaine,9,2,mcrae,bernice,9191,1,52,0,0,0,2,1,33,9,2,0,2,1,0,0,0,0,0,0,1
+1,239,6,6,,,,0,Grand Theft in the 3rd Degree,5,233,1,Grand Theft in the 3rd Degree,5,0,louissaint,loutess,5147,1,22,0,0,0,0,1,7,5,1,1,0,0,0,0,0,0,1,0,1
+0,1173,0,4,,,,0,,,0,0,Fail Obey Driv Lic Restrictions,2,1,rousseau,thomas,3912,1,35,0,0,0,4,0,0,2,0,0,4,0,0,1,0,0,0,0,0
+1,194,1,1,,,,0,Susp Drivers Lic 1st Offense,1,193,1,Battery on Law Enforc Officer,1,1,thornton,jerald,6949,1,32,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,1
+0,97,0,3,,,,0,Possession of Cannabis,5,735,1,Possession of Cannabis,5,1,araujo,gabriel,6244,1,28,0,0,0,3,1,1,5,1,0,3,0,0,0,1,0,0,0,1
+0,1094,0,4,,,,0,,,0,0,Possession of Cocaine,10,2,mcdonald,viven,5568,1,65,0,0,0,11,1,0,10,2,0,11,1,0,0,0,0,0,0,0
+1,237,0,2,,,,0,Possess Drug Paraphernalia,0,237,1,Carrying Concealed Firearm,2,1,gedeon,samuel,8172,1,29,0,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,1
+1,955,0,2,,,,0,Driving License Suspended,1,955,1,Pos Cannabis W/Intent Sel/Del,8,1,brown,emmanuel,3112,1,35,0,0,0,0,1,1,8,2,0,0,1,0,0,0,0,0,0,0
+1,101,1,5,,,,0,Possess Cannabis/20 Grams Or Less,0,100,1,Grand Theft in the 3rd Degree,4,0,santiago,adrian,4368,1,22,0,0,0,1,1,2,4,0,1,1,0,0,0,1,0,0,0,1
+1,293,22,8,,,,0,Poss Pyrrolidinovalerophenone,5,271,1,Grand Theft in the 3rd Degree,5,0,dowels,jerel,4721,1,23,0,0,0,2,1,23,5,1,2,2,1,0,0,0,0,0,0,1
+0,38,2,1,,,,0,Oper Motorcycle W/O Valid DL,1,88,1,Driving While License Revoked,1,1,echols,robert,3918,1,41,0,0,0,8,1,2,1,0,0,8,1,0,0,0,0,0,0,1
+0,860,0,6,,,,0,,,,0,Possession of Cocaine,4,0,dowds,melissa,2431,0,20,0,0,0,0,1,0,4,0,1,0,0,0,1,0,0,0,0,0
+0,918,0,1,,,,0,,,,0,Battery,2,2,cormier,michael,246,1,48,0,0,0,2,0,1,2,0,0,2,0,0,1,0,0,0,0,0
+1,348,0,1,,,,0,Driving License Suspended,1,348,1,Possession of Cocaine,3,2,green,tammy,9308,0,50,0,0,0,3,1,0,3,0,0,3,0,0,1,0,0,0,0,1
+0,187,0,7,,,,0,,5,1007,1,Burglary Conveyance Unoccup,8,0,rucker,annquinette,7175,0,23,0,0,0,3,1,37,8,2,1,3,1,0,0,0,0,0,0,0
+0,939,0,3,,,,0,,,,0,Use Of 2 Way Device To Fac Fel,4,1,mariani,michael,3314,1,30,0,0,0,2,1,1,4,0,0,2,0,0,1,0,0,0,0,0
+1,67,9,8,Threat Public Servant,17/04/2013,5,1,Threat Public Servant,5,58,1,Depriv LEO of Protect/Communic,9,1,ramos,raphael,1313,1,25,0,0,0,0,1,10,9,2,2,0,1,0,0,0,0,0,0,1
+0,1045,0,3,,,,0,,,,0,Carrying Concealed Firearm,3,1,harris,donarth,4622,1,38,0,0,0,1,1,1,3,0,0,1,0,0,0,0,0,1,0,0
+1,288,1,7,,,,0,Possess Cannabis/20 Grams Or Less,0,287,1,Aggravated Battery / Pregnant,9,1,bowen,kenyatta,4452,1,26,0,0,0,6,1,2,9,2,1,6,1,0,0,0,0,0,0,1
+0,884,0,1,,,,0,,,,0,arrest case no charge,2,2,daniels,derick,3129,1,56,0,0,0,1,1,1,2,0,0,1,1,0,0,0,0,0,0,0
+1,23,0,2,,,,0,Driving While License Revoked,5,32,1,Unlaw LicTag/Sticker Attach,3,1,lopes,carlos,8316,1,30,0,0,0,6,0,1,3,0,0,6,0,0,0,1,0,0,0,1
+0,1129,0,1,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,1,2,campbell,vivienne,4435,0,48,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+0,973,1,2,,,,0,,,,0,Battery,2,2,lindsey,herbert,2651,1,59,0,0,0,4,0,1,2,0,0,4,1,0,0,0,0,0,0,0
+0,1068,205,7,,,,0,,,,0,Battery,7,1,merritt,deneil,9738,1,30,0,0,0,3,0,206,7,1,1,3,1,0,0,0,0,0,0,0
+0,1063,2,3,,,,0,,,,0,Possession of Cocaine,4,1,loosier,christopher,547,1,30,0,0,0,0,1,2,4,0,0,0,0,0,1,0,0,0,0,0
+1,41,2,3,,,,0,Poss Pyrrolidinovalerophenone,5,39,1,"Poss 3,4 MDMA (Ecstasy)",7,1,griffin,roderick,3087,1,31,0,0,0,2,1,3,7,1,0,2,1,0,0,0,0,0,0,1
+0,949,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,2,jensen,wayne,5743,1,49,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,695,0,1,,,,0,Susp Drivers Lic 1st Offense,1,695,1,Driving Under The Influence,1,1,thomas,thaddeus,6112,1,34,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+1,67,32,1,,,,0,Petit Theft,1,35,1,arrest case no charge,2,2,clowers,james,4346,1,55,0,0,0,1,1,33,2,0,0,1,0,0,1,0,0,0,0,1
+0,861,0,1,,,,0,,,,0,Possession Of Methamphetamine,1,2,dambra,barry,5423,1,59,0,0,0,2,1,19,1,0,0,2,0,0,1,0,0,0,0,0
+1,213,0,5,,,,0,Petit Theft,1,284,1,arrest case no charge,6,1,sanchez,jessica,2918,0,25,0,0,0,4,1,36,6,1,1,4,0,0,0,1,0,0,0,1
+1,368,0,2,Battery,17/12/2014,0,1,Battery,0,368,1,Possession of Oxycodone,2,1,simpson,michael,4126,1,30,0,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,1
+0,789,1,6,,,,0,,,,0,Carrying Concealed Firearm,7,0,lewis,denzel,4171,1,21,0,0,0,0,1,2,7,1,1,0,1,0,0,0,0,0,0,0
+0,1116,219,1,,,,0,,,,0,Trespass Structure/Conveyance,9,2,scriven,marion,1397,1,63,0,0,0,3,0,220,9,2,0,3,1,0,0,0,0,0,0,0
+0,1168,0,2,,,,0,,,,0,Felony Battery (Dom Strang),1,1,gonzalez,ivan,7324,1,30,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,847,1,2,,,,0,,,,0,Battery,7,1,sosa,yajaira,6699,0,35,0,0,0,4,0,2,7,1,0,4,0,0,1,0,0,0,0,0
+0,6,0,9,,,,0,DWLS Canceled Disqul 1st Off,1,793,1,Driving While License Revoked,10,2,sanchez,stacey,3259,0,45,0,0,0,15,1,1,10,2,2,15,0,0,0,0,1,0,0,1
+1,9,1,2,,,,0,Prostitution,2,8,1,Possession of Cocaine,3,1,henderson,nicole,2718,0,35,0,0,0,0,1,2,3,0,0,0,1,0,0,0,0,0,0,1
+1,21,0,3,Burglary Dwelling Assault/Batt,14/01/2015,(F7),1,Strong Armed  Robbery,4,21,1,arrest case no charge,5,1,miller,darrell,10917,1,44,0,0,1,11,1,1,5,1,0,11,1,0,0,0,0,0,0,1
+1,155,0,2,,,,0,Unlaw Use False Name/Identity,0,189,1,Possession of Cocaine,5,1,valletta,valerie,280,0,38,0,0,0,2,1,1,5,1,0,2,0,0,1,0,0,0,0,1
+0,1093,0,1,,,,0,,,,0,Driving While License Revoked,1,2,schossler,renato,4461,1,64,0,0,0,8,1,1,1,0,0,8,0,0,1,0,0,0,0,0
+1,98,0,4,,,,0,Driving License Suspended,1,98,1,Battery,5,1,turner,tamika,8024,0,27,0,0,0,3,0,1,5,1,0,3,1,0,0,0,0,0,0,1
+0,788,0,5,,,,0,,,,0,arrest case no charge,6,0,fields,wesley,9348,1,21,0,0,0,2,1,1,6,1,1,2,0,0,1,0,0,0,0,0
+1,175,30,6,Felony Battery (Dom Strang),29/06/2013,5,1,Felony Battery w/Prior Convict,5,145,1,Resist Officer w/Violence,10,1,perry,anthony,2247,1,31,3,0,0,6,1,31,10,2,1,6,1,0,0,0,0,0,0,1
+1,28,0,1,,,,0,Leave Acc/Attend Veh/More $50,1,30,1,Burglary Dwelling Assault/Batt,1,2,wolf,raymond,729,1,59,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,1
+0,413,1,6,Throw Deadly Missile Into Veh,7/12/15,4,1,Possess Cannabis/20 Grams Or Less,0,455,1,Grand Theft (Motor Vehicle),9,1,mccutcheon,clinton,1427,1,32,0,0,0,14,1,2,9,2,1,14,1,0,0,0,0,0,0,1
+1,11,1,5,,,,0,Possess Cannabis/20 Grams Or Less,0,10,1,Grand Theft (Motor Vehicle),4,0,gonzalez,orlando,7707,1,22,0,0,0,0,1,2,4,0,1,0,0,0,0,1,0,0,0,1
+1,146,25,5,Battery,5/10/13,0,1,Battery,0,121,1,Battery,7,1,demore,brian,8248,1,28,0,0,0,5,0,26,7,1,1,5,0,0,1,0,0,0,0,1
+0,1075,0,3,,,,0,,,0,0,Driving License Suspended,4,2,saldana,karl,3009,1,56,0,0,0,8,0,0,4,0,0,8,0,0,0,1,0,0,0,0
+1,37,0,2,,,,0,Possession of Cocaine,5,37,1,Possession of Cocaine,8,1,miks,jeremy,3618,1,38,0,0,0,10,1,1,8,2,0,10,0,0,1,0,0,0,0,1
+1,284,0,3,Battery,10/10/15,0,1,Battery,0,,1,Possession of Hydrocodone,4,1,velazquezmontalvo,alex,10078,1,27,0,0,0,1,1,3,4,0,0,1,0,0,0,1,0,0,0,1
+0,1040,1,1,,,,0,,,,0,Battery,1,2,guerrier,frantz,6353,1,57,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+0,933,0,2,,,,0,,,0,0,arrest case no charge,2,1,balbi,bruno,8220,1,33,0,0,0,3,1,0,2,0,0,3,0,0,0,1,0,0,0,0
+0,740,0,1,,,,0,,,,0,Battery,4,1,prospere,carmelle,4556,0,33,0,0,0,3,0,1,4,0,0,3,1,0,0,0,0,0,0,0
+0,1178,0,9,,,,0,,,0,0,Operating W/O Valid License,6,0,dorsett,adrian,7058,1,22,0,1,0,1,0,0,6,1,2,1,1,0,0,0,0,0,0,0
+0,779,0,4,,,,0,,,0,0,arrest case no charge,8,1,dean,charles,7183,1,38,1,0,4,14,1,0,8,2,0,14,1,0,0,0,0,0,0,0
+0,392,0,5,,,,0,,,,0,Possession of Cocaine,10,1,habersham,michael,3399,1,35,3,0,0,13,1,1,10,2,1,13,1,0,0,0,0,0,0,0
+0,53,0,3,,,,0,Susp Drivers Lic 1st Offense,1,0,1,Possession Of Alprazolam,3,1,estey,frederick,9720,1,38,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0,0,0,1
+0,865,1,1,,,,0,,,,0,DUI Property Damage/Injury,1,2,heagle,robert,6593,1,59,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
+0,801,0,2,,,,0,,,,0,arrest case no charge,5,1,miranda,rickie,1017,1,33,0,0,0,5,1,22,5,1,0,5,0,0,1,0,0,0,0,0
+1,866,0,2,,,,0,Possess Cannabis/20 Grams Or Less,0,866,1,Battery,3,1,abdo,mories,5749,1,30,0,0,0,6,0,1,3,0,0,6,0,1,0,0,0,0,0,0
+1,67,1,1,Aggravated Battery / Pregnant,29/03/2013,4,1,Aggravated Battery / Pregnant,4,66,1,Aggravated Battery / Pregnant,1,1,harris,javon,3200,1,35,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,1
+0,348,73,1,,,,0,,,,0,Grand Theft (Motor Vehicle),1,2,kasdorf,stephen,3698,1,49,0,0,0,0,1,74,1,0,0,0,0,0,1,0,0,0,0,0
+1,118,0,6,,,,0,Possess Cannabis/20 Grams Or Less,0,118,1,Possession of Cannabis,4,0,bansie,steven,1151,1,21,0,0,0,1,1,1,4,0,1,1,0,0,0,0,0,1,0,1
+0,857,1,5,,,,0,,,,0,Battery,7,0,barrett,davahu,8421,0,23,0,0,0,0,0,1,7,1,1,0,1,0,0,0,0,0,0,0
+1,586,2,7,,,,0,Possess Cannabis/20 Grams Or Less,0,584,1,Felony Battery (Dom Strang),6,1,chew,nicholas,3985,1,29,0,1,0,17,1,2,6,1,1,17,0,0,0,1,0,0,0,1
+0,1106,4,2,,,,0,,,,0,Battery,2,1,cuello,madeline,8494,0,31,0,0,0,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0
+1,131,0,2,,,,0,Retail/Farm/Fare/Theft,1,131,1,Battery,2,1,gray,romone,5890,1,27,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1
+1,139,0,4,Aggravated Battery / Pregnant,27/12/2013,0,1,Driving License Suspended,1,139,1,arrest case no charge,7,2,johnson,stevie,2474,1,45,0,0,0,8,1,1,7,1,0,8,1,0,0,0,0,0,0,1
+1,21,2,7,Aggrav Battery w/Deadly Weapon,27/03/2014,4,1,Armed False Imprisonment,4,19,1,Drivg While Lic Suspd/Revk/Can,8,1,brantley,kataruis,2737,1,26,0,0,0,9,1,3,8,2,1,9,1,0,0,0,0,0,0,1
+1,63,0,2,,,,0,Possess Drug Paraphernalia,0,63,1,Possession of Cocaine,4,1,cunningham,rasheed,3652,1,28,0,0,0,1,1,1,4,0,0,1,1,0,0,0,0,0,0,1
+0,1066,1,2,,,,0,,,,0,Battery,1,1,suggs,shemeka,3034,0,33,0,0,0,1,0,2,1,0,0,1,1,0,0,0,0,0,0,0
+1,762,13,2,,,,0,Trespass Other Struct/Conve,0,749,1,arrest case no charge,5,1,brown,roger,8288,1,37,0,0,0,8,1,14,5,1,0,8,1,0,0,0,0,0,0,0
+0,1059,0,2,,,,0,,,,0,Aggravated Assault W/dead Weap,3,1,guevaramolina,victor,5406,1,31,0,0,0,2,1,50,3,0,0,2,0,0,0,1,0,0,0,0
+1,231,0,2,,,,0,Operating W/O Valid License,1,231,1,Susp Drivers Lic 1st Offense,4,1,fleming,antone,2009,1,32,0,0,0,4,0,1,4,0,0,4,1,0,0,0,0,0,0,1
+1,539,469,4,,,,0,Driving Under The Influence,0,70,1,Burglary Dwelling Occupied,6,1,gibbs,joseph,8004,1,31,0,0,3,9,1,470,6,1,0,9,0,0,1,0,0,0,0,1
+0,907,0,5,,,,0,,,,0,Grand Theft in the 3rd Degree,7,0,carter,samyrah,1755,0,24,0,0,0,0,1,1,7,1,1,0,1,0,0,0,0,0,0,0
+0,912,0,1,,,,0,,,,0,Neglect/Abuse Elderly Person,1,2,clarke,paulette,1768,1,56,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+1,7,2,3,,,,0,False Ownership Info/Pawn Item,5,5,1,Possession of Cocaine,7,2,mccray,rodney,3976,1,48,0,0,0,7,1,3,7,1,0,7,1,0,0,0,0,0,0,1
+0,856,0,1,,,,0,,,,0,Battery,1,1,mittapalli,sarada,525,1,39,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+0,1059,27,4,,,,0,,,,0,arrest case no charge,5,1,spann,ciprianna,6191,0,27,1,0,0,1,1,27,5,1,0,1,1,0,0,0,0,0,0,0
+1,104,0,7,,,,0,Attempt Crim Use of Personal ID Info,5,,1,arrest case no charge,8,1,small,doyen,2271,1,28,0,0,1,7,1,39,8,2,1,7,1,0,0,0,0,0,0,1
+0,28,14,6,Robbery W/Firearm,12/3/15,3,1,Lve/Scen/Acc/Veh/Prop/Damage,1,441,1,Grand Theft in the 3rd Degree,7,0,tieso,louis,6034,1,23,0,0,0,2,1,15,7,1,1,2,0,0,1,0,0,0,0,1
+0,1071,0,2,,,,0,,,,0,Driving Under The Influence,1,1,crespo,christopher,1757,1,30,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+1,148,1,1,Battery,4/1/14,0,1,Battery,0,147,1,Battery,2,2,durand,nicanor,9125,1,51,0,0,0,1,0,2,2,0,0,1,0,0,1,0,0,0,0,1
+1,464,0,2,,,,0,Pos Cannabis W/Intent Sel/Del,5,,1,arrest case no charge,5,1,brown,tyrone,2060,1,31,0,0,0,3,1,1,5,1,0,3,1,0,0,0,0,0,0,1
+1,43,1,9,,,,0,Possession of Cocaine,5,42,1,Possession of Cocaine,10,1,powell,derrick,10700,1,36,1,2,0,14,1,2,10,2,2,14,1,0,0,0,0,0,0,1
+0,201,1,7,,,,0,,,,0,Burglary Unoccupied Dwelling,7,0,stephens,shaquille,4012,1,21,0,0,0,1,1,2,7,1,1,1,1,0,0,0,0,0,0,0
+1,404,0,3,Aggrav Battery w/Deadly Weapon,18/02/2014,4,1,Aggrav Battery w/Deadly Weapon,4,405,1,Neglect Child / Bodily Harm,3,1,saintilus,savanna,6919,0,27,0,0,0,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1
+0,1177,1,4,,,,0,,,,0,Pos Cannabis W/Intent Sel/Del,3,0,petit-frere,kensley,2809,1,23,0,0,0,0,1,2,3,0,0,0,1,0,0,0,0,0,0,0
+1,3,1,4,,,,0,Possess Cannabis/20 Grams Or Less,0,2,1,Resist Officer w/Violence,3,0,sapp,ryan,4447,1,24,0,0,0,2,1,1,3,0,0,2,1,0,0,0,0,0,0,1
+0,7,1,1,,,,0,,,,0,Viol Injunct Domestic Violence,1,1,herring,jason,3483,1,39,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0
+0,1113,2,7,,,,0,,,,0,Battery,7,0,taylor,trevant,6594,1,24,0,0,0,0,0,3,7,1,1,0,1,0,0,0,0,0,0,0
+0,893,0,5,,,,0,,,0,0,Lewd or Lascivious Molestation,4,1,duval,chernard,10328,1,25,0,0,0,1,1,0,4,0,1,1,1,0,0,0,0,0,0,0
+0,860,11,1,,,,0,,,,0,Deliver Cocaine,2,2,gamboa,jorge,7227,1,50,0,0,0,3,1,12,2,0,0,3,0,0,1,0,0,0,0,0
+0,1181,0,1,,,,0,,,,0,arrest case no charge,1,2,power,andres,9377,1,61,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+1,176,7,5,Battery,14/02/2015,0,1,Battery,0,169,1,Aggravated Assault w/Firearm,5,0,brown,shakime,9532,1,21,0,1,0,2,1,8,5,1,1,2,1,0,0,0,0,0,0,1
+0,1102,0,1,,,,0,,,0,0,arrest case no charge,1,1,pierrelouis,bouthy,6,1,43,0,0,0,2,1,0,1,0,0,2,0,0,0,0,0,1,0,0
+1,379,8,3,,,,0,Susp Drivers Lic 1st Offense,1,371,1,Unauthorized Interf w/Railroad,2,1,bartolino,david,1848,1,44,0,0,0,0,1,9,2,0,0,0,0,0,1,0,0,0,0,1
+0,1031,0,1,,,,0,,,,0,Aggravated Assault W/dead Weap,1,1,stupart,nichole,9988,0,40,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0
+0,157,0,1,,,,0,,,,0,Possession of Cocaine,2,2,newton,leonard,3055,1,61,0,0,0,5,1,12,2,0,0,5,1,0,0,0,0,0,0,0
+0,254,1,5,,,,0,Possession of Ethylone,5,253,1,Disorderly Conduct,3,0,bullard,quentin,9458,1,23,0,0,0,0,0,1,3,0,1,0,1,0,0,0,0,0,0,1
+1,367,0,2,,,,0,Resist/Obstruct W/O Violence,0,367,1,Carrying Concealed Firearm,3,1,drummond,lakavious,10136,1,34,0,0,0,2,1,1,3,0,0,2,1,0,0,0,0,0,0,1
+1,224,0,3,,,,0,Possess Cannabis/20 Grams Or Less,0,224,1,Battery,3,1,sheffield,donovan,810,1,25,0,1,0,1,0,1,3,0,0,1,1,0,0,0,0,0,0,1
+1,468,3,4,,,,0,Operating W/O Valid License,1,465,1,Carrying Concealed Firearm,4,0,bonner,daritte,400,0,23,0,0,0,0,1,4,4,0,0,0,1,0,0,0,0,0,0,1
+1,260,3,4,Robbery Sudd Snatch No Weapon,2/5/14,5,1,Unlaw LicTag/Sticker Attach,1,257,1,Felony Petit Theft,6,1,lewis,shavoria,9968,0,27,0,0,0,2,1,4,6,1,0,2,1,0,0,0,0,0,0,1
+0,912,0,1,,,,0,,,,0,Possession of Cocaine,2,2,carlson,elizabeth,6963,0,49,0,0,0,2,1,1,2,0,0,2,0,0,1,0,0,0,0,0
+0,868,0,9,,,,0,,,,0,Possession of Cocaine,10,1,murray,jamal,3326,1,33,0,0,0,4,1,1,10,2,2,4,1,0,0,0,0,0,0,0
+0,1165,0,4,,,,0,,,0,0,Grand Theft in the 3rd Degree,5,0,olek,amanda,4626,0,24,0,0,0,1,1,0,5,1,0,1,0,0,1,0,0,0,0,0
+1,267,1,4,Battery,18/06/2014,0,1,Battery,0,266,1,Battery,2,0,cobb,haveard,674,1,24,0,0,0,1,0,2,2,0,0,1,1,0,0,0,0,0,0,1
+0,875,0,1,,,,0,,,,0,Child Abuse,1,1,lyerla,crystal,1615,0,38,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,843,0,5,,,,0,,,,0,Deliver Cannabis,3,0,young,jahreal,6800,1,20,0,0,0,0,1,1,3,0,1,0,1,0,0,0,0,0,0,0
+0,940,0,7,,,,0,,,,0,Resist Officer w/Violence,6,1,williams,terris,7426,1,26,0,1,0,5,1,1,6,1,1,5,1,0,0,0,0,0,0,0
+1,7,0,1,,,,0,Felony Petit Theft,5,,1,Felony Petit Theft,3,2,yetts,nathan,697,1,55,0,0,0,5,1,119,3,0,0,5,1,0,0,0,0,0,0,1
+1,15,0,3,,,,0,Possession of Cocaine,5,15,1,Felony Driving While Lic Suspd,3,1,peararay,baldeo,3859,1,38,0,0,0,2,1,0,3,0,0,2,0,0,0,0,0,1,0,1
+1,170,103,10,,,,0,Resist Merchant W Or W/O Viol,0,67,1,Robbery Sudd Snatch No Weapon,9,0,taylor,daniel,6810,1,22,0,0,0,1,1,103,9,2,2,1,1,0,0,0,0,0,0,1
+1,484,0,2,,,,0,Driving License Suspended,1,484,1,Battery,2,1,howard,kimberly,10312,0,31,0,0,0,3,0,1,2,0,0,3,1,0,0,0,0,0,0,1
+0,449,5,1,,,,0,,,,0,arrest case no charge,3,1,williams,troy,2029,1,43,0,0,0,2,1,6,3,0,0,2,1,0,0,0,0,0,0,0
+0,948,0,5,,,,0,,,,0,arrest case no charge,6,1,kanefsky,austin,4828,1,25,0,0,0,2,1,29,6,1,1,2,0,0,1,0,0,0,0,0
+1,690,25,6,Battery on a Person Over 65,7/1/15,5,1,Battery on a Person Over 65,5,665,1,Reckless Driving,4,2,gallagher,tracy,4847,1,50,0,0,0,3,0,25,4,0,1,3,0,0,1,0,0,0,0,1
+1,141,0,2,,,,0,Possession of Cocaine,5,149,1,arrest case no charge,4,2,fields,anthony,10965,1,57,0,0,0,14,1,20,4,0,0,14,0,0,1,0,0,0,0,1
+1,465,14,5,,,,0,Crimin Mischief Damage $1000+,5,451,1,Poss Anti-Shoplifting Device,7,1,hughes,geraldine,5575,0,29,0,0,0,9,1,15,7,1,1,9,1,0,0,0,0,0,0,1
+1,57,33,9,,,,0,Petit Theft,0,24,1,Grand Theft in the 3rd Degree,10,1,foley,sean,8933,1,25,0,0,0,4,1,33,10,2,2,4,0,0,1,0,0,0,0,1
+0,9,0,8,Agg Fleeing/Eluding High Speed,24/01/2014,4,1,Driving While License Revoked,5,9,1,Driving While License Revoked,10,0,sopon,renee,1880,1,20,0,8,1,8,1,1,10,2,2,8,0,0,0,0,0,1,0,1
+1,82,30,9,,,,0,Resist/Obstruct W/O Violence,0,52,1,Petit Theft,10,1,rodriguez,deanna,7774,0,28,0,0,0,6,0,31,10,2,2,6,0,0,1,0,0,0,0,1
+1,220,0,5,,,,0,Possess Drug Paraphernalia,0,222,1,arrest case no charge,7,1,wentz,brian,8081,1,33,0,0,0,3,1,88,7,1,1,3,0,0,1,0,0,0,0,1
+0,1067,1,3,,,,0,,,,0,Battery,5,1,saintval,ovento,3920,1,27,0,0,0,0,0,2,5,1,0,0,0,0,0,0,0,1,0,0
+0,906,0,1,,,,0,,,,0,Aggravated Assault W/dead Weap,1,2,kelly,richard,609,1,68,0,0,0,2,1,1,1,0,0,2,0,0,1,0,0,0,0,0
+1,486,0,4,,,,0,Driving License Suspended,1,486,1,Felony Driving While Lic Suspd,2,1,scott,torey,7808,1,37,0,0,0,2,1,1,2,0,0,2,1,0,0,0,0,0,0,1
+0,484,0,7,,,,0,Operating W/O Valid License,1,484,1,Aggrav Battery w/Deadly Weapon,9,1,woodcock,denzil,835,1,27,0,0,0,5,1,1,9,2,1,5,1,0,0,0,0,0,0,1
+0,407,0,4,,,,0,,,,0,Grand Theft in the 3rd Degree,4,0,clark,zaysha,6667,0,24,0,0,0,1,1,1,4,0,0,1,1,0,0,0,0,0,0,0
+0,773,55,3,,,,0,,,,0,Grand Theft in the 3rd Degree,7,1,smith,david,9473,1,38,0,0,0,14,1,56,7,1,0,14,1,0,0,0,0,0,0,0
+0,837,0,8,,,,0,,,,0,Criminal Mischief Damage <$200,6,0,slovinski,mateus,4647,1,21,0,0,1,1,0,1,6,1,2,1,0,0,1,0,0,0,0,0
+0,1161,1,2,,,,0,,,,0,Tampering With Physical Evidence,2,1,dossantos,tiago,4121,1,31,0,0,0,0,1,2,2,0,0,0,0,0,0,1,0,0,0,0
+0,816,0,1,,,,0,,,,0,Aggravated Battery / Pregnant,1,1,espinoza,martin,9224,1,39,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,397,0,2,,,,0,Unlaw Use False Name/Identity,0,397,1,Felony Driving While Lic Suspd,5,1,jarovits,erik,1760,1,35,0,0,0,4,1,1,5,1,0,4,0,0,1,0,0,0,0,1
+1,97,0,2,,,,0,Petit Theft,1,114,1,arrest case no charge,5,2,hughes,gregory,2426,1,56,0,0,0,5,1,21,5,1,0,5,0,0,1,0,0,0,0,1
+1,10,0,2,,,,0,Possess Drug Paraphernalia,0,10,1,Viol Injunct Domestic Violence,3,1,pulido,jeremy,2814,1,36,0,0,0,5,0,1,3,0,0,5,0,0,1,0,0,0,0,1
+1,74,0,5,,,,0,Fail to Report Change/Residence,5,76,1,Aggravated Assault W/dead Weap,6,1,johnson,latrice,9980,0,41,0,0,0,2,1,24,6,1,1,2,1,0,0,0,0,0,0,1
+1,615,48,1,,,,0,,0,567,1,Possession of Cocaine,1,1,elasraoui,khalil,3039,1,35,0,0,0,1,1,49,1,0,0,1,0,0,1,0,0,0,0,1
+0,1097,0,3,,,,0,,,,0,Pos Cannabis W/Intent Sel/Del,2,0,cabrera,isaac,6496,1,24,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0
+1,186,92,2,Battery,24/11/2013,0,1,Battery,0,94,1,Battery,3,2,sharp,earl,5543,1,45,0,0,0,3,0,93,3,0,0,3,0,0,1,0,0,0,0,1
+0,1175,0,1,,,,0,,,,0,Burglary Conveyance Assault/Bat,1,2,fanea,emanoil,9170,1,52,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0
+1,303,3,6,,,,0,Petit Theft,1,300,1,Felony Petit Theft,8,0,franklin,quatrona,5433,0,20,0,0,0,1,1,4,8,2,1,1,1,0,0,0,0,0,0,1
+1,57,1,6,,,,0,Possession of Cocaine,5,56,1,Possession of Cocaine,4,0,long,jamal,3700,1,21,0,0,0,1,1,1,4,0,1,1,1,0,0,0,0,0,0,1
+1,404,0,4,Battery,25/11/2014,0,1,Battery,0,,1,Driving License Suspended,6,1,burley,chayla,3262,0,26,0,0,0,9,0,2,6,1,0,9,1,0,0,0,0,0,0,1
+0,953,1,6,,,,0,,,,0,Battery,7,0,khan,steven,6778,1,22,1,0,0,1,0,2,7,1,1,1,1,0,0,0,0,0,0,0
+1,182,0,5,,,,0,Operating W/O Valid License,1,182,1,Battery,6,1,newbold,donovan,890,1,30,0,0,0,0,0,1,6,1,1,0,0,0,0,0,0,1,0,1
+0,1186,1,1,,,,0,,,,0,Battery,1,1,coleman,kortney,16,0,37,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,229,0,4,,,,0,Susp Drivers Lic 1st Offense,1,229,1,Driving Under The Influence,4,1,melvin,pilar,241,0,26,0,0,0,2,0,1,4,0,0,2,1,0,0,0,0,0,0,1
+0,904,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,1,meneses,reynaldo,8600,1,30,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+1,128,4,4,,,,0,Driving License Suspended,1,124,1,Battery,6,0,lanza,ellyaher,15,1,23,0,0,0,3,0,4,6,1,0,3,1,0,0,0,0,0,0,1
+0,1084,0,4,,,,0,,,,0,Resist Officer w/Violence,5,0,barnett,sheleike,10018,0,24,0,0,0,0,1,0,5,1,0,0,1,0,0,0,0,0,0,0
+1,148,0,10,,,,0,Possess Cannabis/20 Grams Or Less,0,,1,arrest case no charge,10,1,operle,jason,4409,1,32,1,0,0,11,1,315,10,2,2,11,0,0,1,0,0,0,0,1
+0,1098,1,1,,,,0,,,,0,Possession of Cocaine,1,2,dalessandro,doriano,7164,1,58,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0
+1,118,0,1,,,,0,Opert With Susp DL 2nd Offens,0,118,1,Felony Driving While Lic Suspd,5,1,davis,neal,2490,1,37,0,0,0,8,1,1,5,1,0,8,1,0,0,0,0,0,0,1
+0,955,0,1,,,,0,,,,0,Aggrav Stalking After Injunctn,1,2,barnett,andrew,4765,1,45,0,0,0,3,1,1,1,0,0,3,0,0,1,0,0,0,0,0
+0,1169,0,1,,,,0,,,,0,Aggravated Assault w/Firearm,2,1,scott,johhnie,916,1,40,0,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0
+0,804,2,3,,,,0,,,,0,Possession Burglary Tools,2,1,garzon,diego,9951,1,26,0,0,0,2,1,3,2,0,0,2,0,0,1,0,0,0,0,0
+1,255,0,4,Battery,24/04/2014,0,1,Exposes Culpable Negligence,1,255,1,Battery,5,0,foy,rohneisha,1212,0,24,0,0,0,1,0,0,5,1,0,1,1,0,0,0,0,0,0,1
+0,1024,0,1,,,,0,,,,0,arrest case no charge,1,1,pointdujour,frantz,572,1,42,0,0,0,1,1,4,1,0,0,1,1,0,0,0,0,0,0,0
+1,718,1,2,,,,0,DWLS Canceled Disqul 1st Off,1,717,1,arrest case no charge,1,1,anglin,deamon,4333,1,37,0,0,0,4,0,2,1,0,0,4,0,0,0,0,0,1,0,1
+0,1117,0,3,,,,0,,,,0,Battery,2,1,kerlew,nicholas,2044,1,33,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0
+0,870,0,1,,,,0,,,,0,DUI Property Damage/Injury,4,1,omana,francia,2790,1,43,0,0,0,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0
+0,369,1,1,,,,0,,,,0,Possession of Cocaine,1,2,callahan,edmund,1132,0,53,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,53,4,7,,,,0,Operating W/O Valid License,1,49,1,Possession of Cocaine,7,2,jackson,lloyd,7423,1,52,0,0,0,0,1,5,7,1,1,0,1,0,0,0,0,0,0,1
+0,815,0,4,,,,0,,,,0,Contribute Delinquency Of A Minor,2,0,jaramillo,eyxnor,3957,1,24,0,0,0,1,0,1,2,0,0,1,0,0,0,1,0,0,0,0
+1,200,0,5,,,,0,Petit Theft,1,200,1,Possess Cannabis/20 Grams Or Less,2,0,rodriguez,jean,904,1,20,0,0,0,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1
+0,926,0,5,,,,0,,,,0,Aggravated Battery On 65/Older,3,0,kimball,joseph,3882,1,22,0,0,0,0,1,1,3,0,1,0,0,0,1,0,0,0,0,0
+0,1141,0,1,,,,0,,,,0,Grand Theft in the 3rd Degree,1,1,ginnie,kimberly,7864,0,40,0,0,0,2,1,1,1,0,0,2,1,0,0,0,0,0,0,0
+0,189,0,4,,,,0,Possession of Hydromorphone,5,234,1,arrest case no charge,7,0,fahey,matthew,8602,1,24,0,0,0,5,1,37,7,1,0,5,0,0,1,0,0,0,0,1
+1,246,0,5,,,,0,Possess Cannabis/20 Grams Or Less,0,246,1,Possess Cannabis/20 Grams Or Less,8,0,wimberly,otis,451,1,23,0,0,1,4,0,11,8,2,1,4,1,0,0,0,0,0,0,1
+1,227,3,4,Assault,7/5/15,1,1,Resist/Obstruct W/O Violence,0,224,1,Battery,4,1,neftelberg,robert,9832,1,25,0,0,0,1,0,3,4,0,0,1,0,0,1,0,0,0,0,1
+1,41,2,8,,,,0,Poss Of Controlled Substance,2,39,1,"Poss3,4 Methylenedioxymethcath",7,0,johnson,tremaine,9467,1,22,0,0,0,0,1,3,7,1,2,0,1,0,0,0,0,0,0,1
+1,206,2,2,,,,0,Susp Drivers Lic 1st Offense,1,204,1,Grand Theft in the 3rd Degree,3,1,leiba,abdul,849,1,39,0,0,0,3,1,3,3,0,0,3,1,0,0,0,0,0,0,1
+0,324,580,7,,,,0,Expired DL More Than 6 Months,1,404,1,Tamper With Witness/Victim/CI,7,1,thompson,lavon,5395,1,27,0,0,0,2,1,246,7,1,1,2,1,0,0,0,0,0,0,1
+0,1100,183,3,,,,0,,,,0,arrest case no charge,5,2,arango,miguel,1949,1,47,0,0,0,1,1,184,5,1,0,1,0,0,0,1,0,0,0,0
+0,3,0,1,,,,0,DUI - Enhanced,0,5,1,Battery on Law Enforc Officer,1,1,kucherick,sheri,4187,0,44,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1
+0,640,2,1,,,,0,,,,0,DUI Property Damage/Injury,4,2,francois,kerry,7476,1,68,0,0,0,6,0,3,4,0,0,6,1,0,0,0,0,0,0,0
+0,356,18,6,,,,0,Possess Cannabis/20 Grams Or Less,0,610,1,arrest case no charge,8,1,mims,javaris,5003,1,25,0,1,0,4,1,19,8,2,1,4,1,0,0,0,0,0,0,1
+0,1059,2,2,,,,0,,,,0,Petit Theft,4,1,reese,craig,9820,1,29,0,0,0,2,0,3,4,0,0,2,1,0,0,0,0,0,0,0
+0,314,4,2,,,,0,Possession of Cocaine,5,793,1,Possession of Cocaine,4,2,saulsby,tarzan,5022,1,59,0,0,0,8,1,5,4,0,0,8,1,0,0,0,0,0,0,0
+1,62,0,1,,,,0,Driving License Suspended,1,128,1,arrest case no charge,1,1,mcgill,toccara,10425,0,33,0,0,0,6,0,1,1,0,0,6,1,0,0,0,0,0,0,1
+0,822,0,5,,,,0,,,,0,Burglary Structure Unoccup,3,0,guerra,brandon,6636,1,21,0,0,1,0,0,1,3,0,1,0,0,0,1,0,0,0,0,0
+0,1057,3,5,,,,0,,,,0,Deliver Cannabis,7,0,means,dwayne,6696,1,23,0,0,0,0,1,4,7,1,1,0,1,0,0,0,0,0,0,0
+1,272,0,1,Battery,8/4/15,0,1,Battery,0,272,1,Crimin Mischief Damage $1000+,1,1,nevarez,jonathan,999,1,38,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1
+0,820,0,9,,,,0,,,0,0,Carrying Concealed Firearm,6,0,mitchell,clayton,10573,1,23,2,0,0,3,1,0,6,1,2,3,1,0,0,0,0,0,0,0
+0,781,10,1,,,,0,,,,0,Battery,1,2,tole,wesley,7276,1,68,0,0,0,4,0,11,1,0,0,4,0,0,1,0,0,0,0,0
+1,550,0,2,,,,0,Driving License Suspended,1,550,1,"Poss3,4 Methylenedioxymethcath",2,1,elliot,nesta,3354,1,28,0,0,0,1,1,0,2,0,0,1,1,0,0,0,0,0,0,1
+1,72,46,6,,,,0,Possess Cannabis/20 Grams Or Less,0,26,1,Possession of Cocaine,8,2,banning,kevin,4672,1,48,0,0,0,20,1,46,8,2,1,20,0,0,1,0,0,0,0,1
+0,875,0,1,,,,0,,,,0,Possession of Cannabis,1,2,russell,marlene,6468,0,63,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+1,276,1,8,,,,0,Susp Drivers Lic 1st Offense,1,275,1,Pos Cannabis W/Intent Sel/Del,7,0,montaque,jaquez,7759,1,22,0,0,1,0,1,1,7,1,2,0,1,0,0,0,0,0,0,1
+0,1184,0,4,,,,0,,,0,0,False Ownership Info/Pawn Item,3,0,warman,cristina,3978,0,24,0,0,0,1,1,0,3,0,0,1,0,0,1,0,0,0,0,0
+0,175,0,2,,,,0,,,,0,arrest case no charge,3,1,scirghio,jessica,10567,0,29,0,0,0,3,1,0,3,0,0,3,0,0,1,0,0,0,0,0
+0,795,0,3,,,,0,,,,0,Fail To Obey Police Officer,6,1,baker,heather,232,0,26,0,0,0,0,0,1,6,1,0,0,0,0,1,0,0,0,0,0
+0,403,0,4,,,,0,,,,0,arrest case no charge,5,0,rentas,john,8546,1,21,0,0,0,1,1,1,5,1,0,1,0,0,1,0,0,0,0,0
+0,879,1,5,,,,0,,,,0,Burglary Unoccupied Dwelling,7,0,lovo,aaliyah,900,0,21,0,0,0,0,1,2,7,1,1,0,0,0,1,0,0,0,0,0
+0,780,0,1,,,,0,,,0,0,Driving License Suspended,1,2,calhoun,byron,3705,1,75,0,0,0,2,0,0,1,0,0,2,0,0,1,0,0,0,0,0
+0,1112,0,1,,,,0,,,,0,arrest case no charge,2,1,wright,shameka,5728,0,30,0,0,0,1,1,1,2,0,0,1,1,0,0,0,0,0,0,0
+0,1098,31,4,,,,0,,,,0,Lewd/Lasc Battery Pers 12+/<16,5,0,arteaga,octavio,8217,1,24,0,0,0,0,1,32,5,1,0,0,0,0,0,1,0,0,0,0
+0,851,0,2,,,,0,,,,0,Driving While License Revoked,2,1,hamilton,jamie,6078,0,28,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0
+1,699,7,9,,,,0,Possess Cannabis/20 Grams Or Less,0,692,1,Viol Injunct Domestic Violence,9,0,narcisse,louivens,6319,1,23,0,0,0,2,0,8,9,2,2,2,1,0,0,0,0,0,0,1
+0,1173,29,1,,,,0,,,,0,Battery,2,1,slager,leslie,9484,0,41,0,0,0,1,0,29,2,0,0,1,0,0,1,0,0,0,0,0
+1,68,1,4,Aggravated Battery / Pregnant,31/07/2013,4,1,Possess Cannabis/20 Grams Or Less,0,67,1,Petit Theft,4,1,wright,byron,10036,1,26,0,0,0,9,0,2,4,0,0,9,1,0,0,0,0,0,0,1
+0,1068,1,2,,,,0,,,,0,Felony Battery (Dom Strang),4,1,mills,alphonse,4537,1,41,0,0,0,8,1,2,4,0,0,8,1,0,0,0,0,0,0,0
+1,219,45,3,Aggrav Child Abuse-Agg Battery,4/6/15,3,1,Resist/Obstruct W/O Violence,0,174,1,Burglary Dwelling Occupied,6,1,wilson,napoleon,6372,1,26,0,0,0,4,1,45,6,1,0,4,1,0,0,0,0,0,0,1
+0,922,93,6,,,,0,,,,0,Aggrav Stalking After Injunctn,7,0,leslie,michael,9180,1,24,0,0,0,3,1,93,7,1,1,3,1,0,0,0,0,0,0,0
+0,852,0,7,,,,0,,,,0,Poss Of Controlled Substance,6,1,king,rashon,6163,1,35,0,0,0,4,0,6,6,1,1,4,1,0,0,0,0,0,0,0
+0,36,0,4,,,,0,,,,0,Driving License Suspended,3,1,arteaga,yuniel,10271,1,33,0,0,0,2,0,4,3,0,0,2,0,0,0,1,0,0,0,0
+0,7,0,4,,,,0,,,,0,arrest case no charge,5,1,young,nikesha,1348,0,29,0,0,0,1,1,180,5,1,0,1,1,0,0,0,0,0,0,0
+1,304,32,4,,,,0,Possess Cannabis/20 Grams Or Less,0,272,1,Robbery / No Weapon,5,1,heil,robert,1805,1,25,0,0,1,4,1,33,5,1,0,4,1,0,0,0,0,0,0,1
+0,758,0,4,,,,0,,,0,0,Pos Cannabis W/Intent Sel/Del,5,1,mooken,sunil,5790,1,31,0,0,0,6,1,0,5,1,0,6,0,0,0,0,0,1,0,0
+0,870,0,5,,,,0,,,,0,Battery,7,0,camper,cedrick,6051,1,23,0,0,2,1,0,1,7,1,1,1,1,0,0,0,0,0,0,0
+0,104,0,4,,,,0,,,,0,arrest case no charge,6,2,johnson,clinton,322,1,45,0,0,0,3,1,219,6,1,0,3,1,0,0,0,0,0,0,0
+0,391,0,7,,,,0,Possess Cannabis/20 Grams Or Less,0,521,1,Pos Cannabis W/Intent Sel/Del,7,1,sapp,najee,39,1,26,0,0,1,5,1,1,7,1,1,5,1,0,0,0,0,0,0,1
+1,348,2,7,,,,0,Possess Cannabis/20 Grams Or Less,0,346,1,Agg Fleeing and Eluding,5,2,joyce,theopholus,3285,1,46,0,0,0,5,1,2,5,1,1,5,1,0,0,0,0,0,0,1
+0,951,1,3,,,,0,,,,0,Aggravated Assault W/Dead Weap,5,1,johnson,shawanda,1181,0,35,0,0,0,4,1,2,5,1,0,4,1,0,0,0,0,0,0,0
+0,1037,0,1,,,,0,,,,0,Possession of Cocaine,2,1,levy,david,722,1,37,0,0,0,3,1,7,2,0,0,3,0,0,1,0,0,0,0,0
+0,1144,0,4,,,,0,,,,0,Battery,2,0,caprice,carlheinz,10348,1,24,0,0,0,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0
+1,175,7,4,,,,0,Viol Injunct Domestic Violence,0,168,1,Aggravated Assault W/Dead Weap,3,0,chernin,zachary,2446,1,23,0,0,0,0,1,8,3,0,0,0,0,0,1,0,0,0,0,1
+0,26,0,5,,,,0,Retail/Farm/Fare/Theft,1,555,1,Battery,5,0,garcia,jessica,6195,0,24,0,1,0,3,0,1,5,1,1,3,0,0,1,0,0,0,0,1
+0,53,2,5,,,,0,,5,739,1,Possession of Cocaine,7,0,jimenez,brandon,9221,1,22,0,0,0,3,1,2,7,1,1,3,0,0,1,0,0,0,0,1
+1,245,12,2,,,,0,Operating W/O Valid License,1,233,1,Felony Battery (Dom Strang),2,1,sherman,charles,2704,1,29,0,0,0,0,1,13,2,0,0,0,1,0,0,0,0,0,0,1
+0,885,0,3,,,,0,,,,0,arrest case no charge,7,1,gildon,amy,2239,0,30,0,0,0,7,0,18,7,1,0,7,0,0,1,0,0,0,0,0
+1,4,0,1,,,,0,Viol Pretrial Release Dom Viol,0,4,1,Viol Injunct Domestic Violence,1,2,black,michael,10543,1,51,0,0,0,2,0,0,1,0,0,2,0,0,1,0,0,0,0,1
+0,920,0,4,,,,0,,,,0,arrest case no charge,6,1,hall,shane,9109,1,39,0,0,0,8,1,20,6,1,0,8,0,0,1,0,0,0,0,0
+0,215,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,2,gough,john,3205,1,49,0,0,0,2,0,1,1,0,0,2,0,0,1,0,0,0,0,0
+0,737,0,4,,,,0,,,,0,Att Burgl Unoccupied Dwel,2,0,gordon,terrance,5473,1,22,0,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0
+0,1152,0,1,,,,0,,,,0,Battery,2,2,hadley,linda,3904,0,59,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0
+0,112,0,6,,,,0,,,,0,Petit Theft,8,1,baumgartner,william,2472,1,28,0,0,2,9,0,117,8,2,1,9,0,0,1,0,0,0,0,0
+1,118,0,2,,,,0,Possession Of Carisoprodol,5,118,1,Possession Of Heroin,4,1,adoni,guy,4783,1,31,0,0,0,1,1,0,4,0,0,1,0,0,1,0,0,0,0,1
+0,1076,0,7,,,,0,,,,0,Tamper With Witness/Victim/CI,8,1,johnson,carlton,7688,1,37,0,0,0,0,1,1,8,2,1,0,1,0,0,0,0,0,0,0
+1,167,117,5,,,,0,Felony Committing Prostitution,5,50,1,Felony Committing Prostitution,9,2,trotter,tammy,7661,0,47,0,0,0,28,1,118,9,2,1,28,0,0,1,0,0,0,0,1
+0,77,0,8,,,,0,Driving License Suspended,1,515,1,Poss Pyrrolidinovalerophenone,9,1,lovett,reginald,6304,1,27,0,0,0,9,1,0,9,2,2,9,1,0,0,0,0,0,0,1
+0,171,0,3,,,,0,,,,0,Tampering With Physical Evidence,7,1,adams,james,8361,1,37,0,0,0,7,1,1,7,1,0,7,1,0,0,0,0,0,0,0
+0,1181,25,6,,,,0,,,,0,Felony Battery (Dom Strang),6,1,austin,robert,10307,1,31,2,0,0,6,1,26,6,1,1,6,1,0,0,0,0,0,0,0
+1,337,0,5,Battery,27/04/2014,0,1,Battery,0,337,1,"Poss3,4 Methylenedioxymethcath",4,1,mccray,stanley,7145,1,29,0,0,0,1,1,1,4,0,1,1,1,0,0,0,0,0,0,1
+0,231,0,10,Battery,2/7/15,0,1,Battery,0,71,1,Prowling/Loitering,10,0,stewart,dvonte,10339,1,23,0,0,0,1,0,149,10,2,2,1,1,0,0,0,0,0,0,1
+1,318,32,9,,,,0,Grand Theft in the 3rd Degree,5,286,1,Petit Theft $100- $300,10,1,malletgonzales,jeffrey,919,1,36,0,0,0,1,0,40,10,2,2,1,0,0,0,1,0,0,0,1
+1,47,0,1,,,,0,Driving License Suspended,1,41540,1,Driving Under The Influence,1,1,giancola,daniel,4455,1,32,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+0,1133,0,3,,,,0,,,,0,arrest case no charge,3,1,sterlin,roseson,5854,1,26,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0
+0,913,0,7,,,,0,,,,0,arrest case no charge,7,0,blagman,latif,1002,1,22,0,1,0,3,1,1,7,1,1,3,1,0,0,0,0,0,0,0
+0,89,5,7,Assault Law Enforcement Officer,4/3/14,0,1,Resist/Obstruct W/O Violence,0,416,1,Carrying Concealed Firearm,10,1,masses,johnny,3499,0,30,0,3,2,14,1,5,10,2,1,14,1,0,0,0,0,0,0,1
+0,948,93,2,,,,0,,,,0,arrest case no charge,4,1,miller,marlon,3191,1,37,0,0,0,4,1,93,4,0,0,4,1,0,0,0,0,0,0,0
+0,922,0,4,,,,0,Disorderly Intoxication,1,922,1,Battery,3,1,sisto,joseph,4169,1,35,0,0,0,2,0,0,3,0,0,2,0,0,1,0,0,0,0,0
+0,1078,0,6,,,,0,,,,0,Pos Cannabis W/Intent Sel/Del,5,1,diaz,maximo,4255,1,27,0,0,0,0,1,1,5,1,1,0,0,0,1,0,0,0,0,0
+0,900,3,7,,,,0,,,,0,Burglary Conveyance Unoccup,5,0,stinson,keenen,1787,1,24,0,0,0,0,1,4,5,1,1,0,1,0,0,0,0,0,0,0
+1,80,34,1,,,,0,Extradition/Defendants,0,46,1,Felony Battery (Dom Strang),3,1,taylor,tiffany,10139,0,31,0,0,0,1,1,34,3,0,0,1,1,0,0,0,0,0,0,1
+0,1072,0,8,,,,0,,,0,0,arrest case no charge,8,1,martin,fredrick,7005,1,32,0,0,0,2,1,0,8,2,2,2,1,0,0,0,0,0,0,0
+1,576,0,7,,,,0,,1,576,1,Assault,5,0,hernandez,rolando,6166,1,20,0,0,0,1,0,1,5,1,1,1,0,0,1,0,0,0,0,1
+0,294,19,10,Battery,10/2/16,0,1,Poss Pyrrolidinovalerophenone,5,694,1,Resist Officer w/Violence,10,1,walker,marcus,6690,1,25,0,1,0,7,1,20,10,2,2,7,1,0,0,0,0,0,0,1
+0,151,4,6,,,,0,,,,0,Felony Battery w/Prior Convict,8,1,melton,xavier,5379,1,27,0,1,0,11,1,5,8,2,1,11,1,0,0,0,0,0,0,0
+1,107,45,8,Battery,10/12/14,0,1,Battery,0,62,1,Battery,9,1,tolbert,gartrell,10519,1,36,0,0,0,2,0,46,9,2,2,2,1,0,0,0,0,0,0,1
+0,248,0,3,,,,0,Possess Cannabis/20 Grams Or Less,0,206,1,Driving While License Revoked,7,2,sansone,robert,7992,1,55,0,0,0,18,1,56,7,1,0,18,0,0,1,0,0,0,0,1
+1,251,86,6,,,,0,Use Lost Or Stolen Credit Card,0,165,1,Possession of Cocaine,10,0,eliacin,romario,6347,1,21,0,0,0,2,1,86,10,2,1,2,1,0,0,0,0,0,0,1
+0,160,0,5,,,,0,Poss Pyrrolidinovalerophenone,5,507,1,Battery,10,2,samuels,tony,7086,1,50,1,0,0,13,0,60,10,2,1,13,1,0,0,0,0,0,0,1
+1,721,53,3,,,,0,Operating W/O Valid License,1,668,1,Fleeing Or Attmp Eluding A Leo,2,1,white,vaughn,6852,1,27,0,0,0,0,1,54,2,0,0,0,0,0,0,0,0,1,0,1
+0,1146,1,5,,,,0,,,,0,Tampering With Physical Evidence,7,0,stephens,dirrick,2556,1,23,0,0,0,0,1,1,7,1,1,0,1,0,0,0,0,0,0,0
+0,1092,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,2,hogan,allatia,3714,1,53,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+0,214,0,8,,,,0,,,,0,Possession Of Alprazolam,9,0,dejesus,ivan,1928,1,23,0,0,0,4,1,27,9,2,2,4,0,0,0,1,0,0,0,0
+0,815,1,1,,,,0,,,,0,Assault,1,1,coleman,craig,2183,1,41,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+0,608,0,3,,,,0,,,,0,DUI Property Damage/Injury,4,2,yount,malcolm,5724,1,57,0,0,0,1,0,1,4,0,0,1,0,0,1,0,0,0,0,0
+0,1088,0,1,,,,0,,,,0,Driving Under The Influence,1,1,ryan,michael,7944,1,36,0,0,0,2,0,1,1,0,0,2,0,0,1,0,0,0,0,0
+0,928,1,2,,,,0,,,,0,Battery,2,1,boyd,bryan,3053,1,35,0,0,0,2,0,2,2,0,0,2,1,0,0,0,0,0,0,0
+0,59,6,3,,,,0,Resist/Obstruct W/O Violence,0,53,1,Crlty Twrd Child Urge Oth Act,5,1,jacobs,marshall,4983,1,32,0,2,1,10,1,7,5,1,0,10,0,0,1,0,0,0,0,1
+0,1161,178,6,,,,0,,,,0,Unlaw LicTag/Sticker Attach,6,0,williams,michael,10538,1,23,0,0,0,1,0,178,6,1,1,1,1,0,0,0,0,0,0,0
+0,1163,0,2,,,,0,,,0,0,arrest case no charge,9,2,morgan,rosanne,9161,0,48,0,0,0,1,1,0,9,2,0,1,0,0,1,0,0,0,0,0
+0,774,2,2,,,,0,,,,0,Battery,5,1,hood,april,9062,0,40,0,0,0,0,0,3,5,1,0,0,0,0,1,0,0,0,0,0
+1,136,0,5,,,,0,Petit Theft,1,42059,1,,3,0,fermincivolani,marco,6762,1,20,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,1
+0,1128,0,2,,,,0,,,0,0,arrest case no charge,4,2,woodfork,james,7250,1,56,0,0,0,9,1,0,4,0,0,9,1,0,0,0,0,0,0,0
+0,1182,32,7,,,,0,,,,0,Possession of Cocaine,7,0,breedlove,pierre,6361,1,24,0,1,0,1,1,33,7,1,1,1,1,0,0,0,0,0,0,0
+0,132,85,7,,,,0,Possess Cannabis/20 Grams Or Less,0,119,1,arrest case no charge,10,1,ross,joshua,3168,1,25,2,0,0,4,1,86,10,2,1,4,1,0,0,0,0,0,0,1
+0,763,0,1,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,1,2,laflamme,ellan,9272,0,59,0,0,0,1,1,60,1,0,0,1,0,0,1,0,0,0,0,0
+0,864,29,8,,,,0,,,,0,Att Burgl Unoccupied Dwel,8,0,calix,gregory,7894,1,20,0,0,0,0,1,30,8,2,2,0,1,0,0,0,0,0,0,0
+1,334,0,2,Aggrav Battery w/Deadly Weapon,20/07/2014,4,1,Aggrav Battery w/Deadly Weapon,4,335,1,Battery,2,1,lopez,kathleen,10270,0,29,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,1
+1,640,0,4,,,,0,Prowling/Loitering,1,647,1,arrest case no charge,8,1,castellano,timothy,6014,1,35,0,0,0,8,1,252,8,2,0,8,0,0,1,0,0,0,0,1
+1,61,0,2,,,,0,Viol Injunct Domestic Violence,0,61,1,Defrauding Innkeeper $300/More,7,1,mims,derrick,64,1,29,0,0,0,0,1,0,7,1,0,0,1,0,0,0,0,0,0,1
+1,231,0,5,,,,0,Grand Theft in the 3rd Degree,5,,1,arrest case no charge,6,1,hampton,alfred,3828,1,44,0,0,0,8,1,2,6,1,1,8,0,0,1,0,0,0,0,1
+0,1045,181,8,,,,0,,,,0,Escape,10,1,dalton,alexandria,4444,0,25,0,0,0,2,1,181,10,2,2,2,0,0,1,0,0,0,0,0
+0,945,7,2,,,,0,,,,0,Forging Bank Bills/Promis Note,5,1,hines,benjamin,9493,1,31,0,0,0,0,1,8,5,1,0,0,1,0,0,0,0,0,0,0
+1,870,1,1,Battery,7/7/15,0,1,Battery,0,869,1,Battery,1,1,stubbs,kip,335,1,37,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
+0,1059,0,1,,,,0,,,,0,Poss Cocaine/Intent To Del/Sel,1,2,spitler,richard,9212,1,56,0,0,0,6,1,1,1,0,0,6,0,0,1,0,0,0,0,0
+0,747,2,1,,,,0,,,,0,Battery,1,1,thieme,elizabeth,10,0,39,0,0,0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0
+1,55,5,5,,,,0,Trespass Other Struct/Convey,0,50,1,Possession of Cocaine,9,2,tillman,horace,708,1,54,0,0,0,28,1,6,9,2,1,28,1,0,0,0,0,0,0,1
+0,409,0,1,,,,0,,,,0,Driving While License Revoked,3,2,thompson,timothy,1886,1,60,0,0,0,12,1,1,3,0,0,12,1,0,0,0,0,0,0,0
+1,165,0,1,Sexual Battery / Vict 12 Yrs +,30/06/2014,4,1,Sexual Battery / Vict 12 Yrs +,4,214,1,Battery,3,2,horton,gregory,9879,1,56,0,0,0,4,0,1,3,0,0,4,1,0,0,0,0,0,0,1
+0,1059,2,1,,,,0,,,,0,arrest case no charge,1,1,farah,imad,4648,1,41,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0
+0,1143,1,1,,,,0,,,,0,Criminal Mischief Damage <$200,1,2,mejarodriguez,ana,10443,0,45,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+0,114,0,1,,,,0,Disorderly Conduct,1,354,1,Driving Under The Influence,1,2,denonno,michael,4516,1,45,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+0,879,151,3,,,,0,,,,0,Alcoholic Beverage Violation-FL,5,2,cruse,leevon,10928,1,59,0,0,0,5,0,151,5,1,0,5,1,0,0,0,0,0,0,0
+0,773,0,2,,,,0,,,,0,Leave Acc/Attend Veh/More $50,2,1,norman,russell,1231,1,26,0,0,0,0,0,9,2,0,0,0,0,0,1,0,0,0,0,0
+0,197,0,9,,,,0,Loiter Where Sign is Posted,2,30,1,Possession of Cocaine,10,1,hayes,alphonso,6504,1,39,0,1,1,8,1,4,10,2,2,8,1,0,0,0,0,0,0,1
+1,150,1,2,,,,0,Viol Prot Injunc Repeat Viol,0,149,1,Viol Injunct Domestic Violence,1,1,castro,alexander,7638,1,34,0,0,0,2,0,1,1,0,0,2,0,0,0,1,0,0,0,1
+1,417,6,1,,,,0,Lve/Scen/Acc/Veh/Prop/Damage,1,411,1,Battery,1,1,paret,yvette,5981,0,44,0,0,0,1,0,6,1,0,0,1,0,0,1,0,0,0,0,1
+0,779,0,1,,,,0,,,,0,Battery,1,2,marko,edward,2353,1,47,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,35,0,6,,,,0,Possession of Cocaine,5,,1,Attempted Robbery  No Weapon,4,1,brooks,thomas,5412,1,43,0,0,0,8,1,62,4,0,1,8,0,0,1,0,0,0,0,1
+0,971,0,2,,,,0,,,,0,Grand Theft in the 3rd Degree,1,1,price,precious,8212,1,33,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,1095,4,3,,,,0,,,,0,DUI Property Damage/Injury,2,2,taylor,william,8369,1,47,0,0,0,5,0,5,2,0,0,5,0,0,1,0,0,0,0,0
+0,1137,0,7,,,,0,,,0,0,arrest case no charge,8,1,twiggs,keandre,10057,1,34,0,1,0,9,1,0,8,2,1,9,1,0,0,0,0,0,0,0
+0,1174,0,1,,,,0,,,,0,Battery,1,2,vansteenkiste,john,3860,1,53,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,465,0,1,,,,0,Possession of Cocaine,5,465,1,Possession of Cocaine,1,2,ferrer,lea,3973,0,50,0,0,0,2,1,1,1,0,0,2,0,0,1,0,0,0,0,1
+1,755,0,2,,,,0,Unlaw LicTag/Sticker Attach,1,755,1,Battery,2,1,marton,mircea,1248,1,39,0,0,0,2,0,1,2,0,0,2,0,0,1,0,0,0,0,0
+1,147,1,7,Aggrav Child Abuse-Agg Battery,8/8/13,3,1,Aggrav Child Abuse-Agg Battery,3,146,1,"Poss3,4 Methylenedioxymethcath",9,1,denis,christopher,2057,1,25,0,3,1,15,1,2,9,2,1,15,1,0,0,0,0,0,0,1
+1,1,0,1,,,,0,Susp Drivers Lic 1st Offense,1,9,1,DUI Level 0.15 Or Minor In Veh,1,1,martin,milton,836,1,43,0,0,0,2,0,4,1,0,0,2,0,0,0,1,0,0,0,1
+0,1093,56,1,,,,0,,,,0,Viol Injunct Domestic Violence,3,2,fasano,anthony,8373,1,66,0,0,0,2,0,57,3,0,0,2,0,0,1,0,0,0,0,0
+0,130,0,5,,,,0,,,,0,"Poss3,4 Methylenedioxymethcath",4,0,morival,jerry,10446,1,23,0,0,0,0,1,1,4,0,1,0,1,0,0,0,0,0,0,0
+0,735,0,3,,,,0,,,0,0,arrest case no charge,4,1,harrold,jimmie,7188,1,25,0,0,0,1,0,0,4,0,0,1,1,0,0,0,0,0,0,0
+1,824,0,4,,,,0,Operating W/O Valid License,1,824,1,Operating W/O Valid License,3,0,carrillo,helen,497,0,23,0,0,0,1,0,0,3,0,0,1,0,0,0,1,0,0,0,0
+0,755,0,2,,,,0,,,,0,arrest case no charge,3,1,liantonio,james,4081,1,27,0,0,0,1,1,1,3,0,0,1,0,0,1,0,0,0,0,0
+1,37,8,9,Battery on Law Enforc Officer,15/07/2014,5,1,Mandatory Susp Possess Alcohol,1,29,1,Assault,9,0,leal,justin,738,1,21,0,0,4,2,0,9,9,2,2,2,0,0,1,0,0,0,0,1
+0,1175,32,2,,,,0,,,,0,Battery,6,1,davila,rico,2776,1,41,0,0,0,9,0,33,6,1,0,9,0,0,1,0,0,0,0,0
+1,978,23,4,,,,0,,5,955,1,Poss of Cocaine W/I/D/S 1000FT Park,6,1,reed,robert,3797,1,44,1,0,0,7,1,24,6,1,0,7,1,0,0,0,0,0,0,0
+1,289,0,2,,,,0,Forge Revoked Expired Credit Card,0,289,1,Driving While License Revoked,1,1,roberts,jordan,4637,1,36,0,0,0,2,1,0,1,0,0,2,1,0,0,0,0,0,0,1
+1,170,1,9,,,,0,Resist/Obstruct W/O Violence,0,169,1,Possession Burglary Tools,8,0,cherisca,deve,1505,1,21,0,0,1,0,1,1,8,2,2,0,1,0,0,0,0,0,0,1
+0,68,0,7,,,,0,Use of Anti-Shoplifting Device,5,200,1,Susp Drivers Lic 1st Offense,7,1,tucker,jamelle,6646,1,28,0,0,0,0,0,0,7,1,1,0,1,0,0,0,0,0,0,1
+0,160,32,9,,,,0,Possession of Cocaine,5,159,1,Grand Theft in the 3rd Degree,10,0,clarke,keontrae,5465,0,21,0,0,0,0,1,33,10,2,2,0,1,0,0,0,0,0,0,1
+1,53,0,1,,,,0,Driving License Suspended,1,53,1,Driving Under The Influence,1,2,williams,sheron,10040,0,56,0,0,0,2,0,1,1,0,0,2,1,0,0,0,0,0,0,1
+0,126,0,5,,,,0,Fail Register Vehicle,1,752,1,Aggravated Assault w/Firearm,4,0,morla,joshua,7149,1,22,0,0,0,1,1,8,4,0,1,1,0,0,1,0,0,0,0,0
+1,30,2,9,,,,0,Prowling/Loitering,1,28,1,Battery on Law Enforc Officer,9,0,williams,vandivuiet,26,1,21,0,0,0,1,1,3,9,2,2,1,1,0,0,0,0,0,0,1
+1,2,1,2,,,,0,Aggrav Stalking After Injunctn,5,0,1,Aggrav Stalking After Injunctn,2,1,sanmarco,anthony,175,1,42,0,0,0,1,1,1,2,0,0,1,0,0,1,0,0,0,0,1
+0,536,0,4,,,,0,,,,0,Forging Bank Bills/Promis Note,4,0,wiggs,jennifer,5544,0,24,0,0,0,2,1,1,4,0,0,2,1,0,0,0,0,0,0,0
+1,89,0,2,Agg Battery Grt/Bod/Harm,3/10/15,4,1,Unlaw LicTag/Sticker Attach,1,89,1,Aggrav Battery w/Deadly Weapon,4,1,alvarado,grace,6362,0,29,0,0,0,0,1,1,4,0,0,0,0,0,0,1,0,0,0,1
+0,93,0,3,,,,0,Fail Register Vehicle,1,324,1,Possess Countrfeit Credit Card,5,1,avila,michael,3145,1,30,0,1,1,7,1,1,5,1,0,7,1,0,0,0,0,0,0,1
+0,1149,0,4,,,,0,,,0,0,Aggravated Battery / Pregnant,3,1,dubose,rashaun,5111,1,25,0,0,0,1,1,0,3,0,0,1,1,0,0,0,0,0,0,0
+0,772,0,3,,,,0,,,0,0,arrest case no charge,3,1,white,cedrick,4301,1,31,0,0,0,2,1,0,3,0,0,2,1,0,0,0,0,0,0,0
+0,293,0,2,,,,0,,,,0,arrest case no charge,2,1,clingan,christopher,9500,1,32,0,1,0,2,1,70,2,0,0,2,0,0,1,0,0,0,0,0
+1,254,0,9,,,,0,Possess Cannabis/20 Grams Or Less,0,254,1,Battery,6,0,saintelus,walder,4185,1,20,0,0,0,0,0,1,6,1,2,0,0,0,0,0,0,1,0,1
+0,66,0,7,,,,0,,,,0,arrest case no charge,6,1,dejesus,joseph,8750,1,37,0,0,0,9,1,49,6,1,1,9,0,0,0,1,0,0,0,0
+0,129,54,4,,,,0,Burglary Structure Unoccup,5,111,1,Viol Injunct Domestic Violence,5,0,clark,scott,2184,1,23,1,0,1,5,0,54,5,1,0,5,0,0,1,0,0,0,0,1
+0,758,0,5,,,,0,,,,0,Battery on Law Enforc Officer,4,0,roundtree,kole,1856,1,21,0,0,0,1,1,1,4,0,1,1,0,0,1,0,0,0,0,0
+0,80,0,1,,,,0,,,,0,Leaving Acc/Unattended Veh,1,1,ramsey,mark,1847,1,42,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,238,0,4,,,,0,Possession of Hydromorphone,5,238,1,Possession of Hydromorphone,4,1,dunbar,janelle,5454,0,25,0,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0,0,1
+0,123,38,9,Battery,6/6/14,0,1,Battery,0,402,1,arrest case no charge,9,0,singh,robert,7406,1,22,0,0,0,1,1,38,9,2,2,1,1,0,0,0,0,0,0,1
+0,969,3,1,,,,0,,,,0,Driving While License Revoked,1,1,meza,apolinar,8003,1,41,0,0,0,0,1,4,1,0,0,0,0,0,1,0,0,0,0,0
+0,1080,0,1,,,,0,,,,0,Battery,3,2,avery,hope,1930,0,53,0,0,0,1,0,1,3,0,0,1,0,0,1,0,0,0,0,0
+1,317,1,3,,,,0,Trespass Struct/Conveyance,1,316,1,Battery,5,1,smith,dominique,1441,1,30,0,0,0,1,0,2,5,1,0,1,1,0,0,0,0,0,0,1
+0,17,2,5,,,,0,Uttering a Forged Instrument,5,405,1,Felony Batt(Great Bodily Harm),6,0,hughes,devonte,2907,1,22,0,0,0,3,1,2,6,1,1,3,1,0,0,0,0,0,0,1
+0,739,0,3,,,,0,,,,0,Battery,3,1,rozo,ariane,8590,0,26,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0
+0,762,2,1,,,,0,,,,0,Viol Prot Injunc Repeat Viol,1,1,jean-baptiste,lucane,2738,1,31,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0
+1,73,18,9,,,,0,Poss Pyrrolidinovalerophenone,5,55,1,Poss Pyrrolidinovalerophenone,8,0,pruneda,selena,10219,0,20,0,0,0,0,1,19,8,2,2,0,0,0,1,0,0,0,0,1
+1,401,30,5,,,,0,Wear Mask w/Commit Offense,4,371,1,Burglary Unoccupied Dwelling,8,1,sookram,krishna,357,1,31,0,0,0,0,1,31,8,2,1,0,0,0,1,0,0,0,0,1
+1,947,0,7,,,,0,Unlaw LicTag/Sticker Attach,1,947,1,Possession of Cocaine,6,1,davis,jeremy,9618,1,25,0,0,0,2,1,0,6,1,1,2,0,0,1,0,0,0,0,0
+0,455,11,4,,,,0,Possess Cannabis/20 Grams Or Less,0,518,1,Burglary Structure Unoccup,6,1,findley,wesley,7804,1,33,0,0,0,3,1,12,6,1,0,3,1,0,0,0,0,0,0,1
+0,1048,0,3,,,,0,,,,0,Battery,2,1,dundas,ryan,4003,1,26,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0
+0,1078,0,1,,,,0,,,,0,Battery,1,1,fox,robert,2748,1,44,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+1,71,0,7,,,,0,Grand Theft in the 3rd Degree,5,71,1,Grand Theft in the 3rd Degree,7,0,brown,breon,3629,1,21,0,0,0,0,1,1,7,1,1,0,1,0,0,0,0,0,0,1
+1,130,0,1,Battery,2/10/15,0,1,Petit Theft,1,143,1,"Poss 3,4 MDMA (Ecstasy)",2,2,shellman,crystal,971,0,58,0,0,0,4,1,1,2,0,0,4,1,0,0,0,0,0,0,1
+1,189,0,4,,,,0,Criminal Mischief>$200<$1000,0,189,1,Driving While License Revoked,6,1,estilien,jonathan,10836,1,25,0,0,0,3,1,1,6,1,0,3,1,0,0,0,0,0,0,1
+0,881,25,5,,,,0,,,,0,Fleeing Or Attmp Eluding A Leo,10,1,thompson,steven,2515,1,28,2,1,0,11,1,26,10,2,1,11,1,0,0,0,0,0,0,0
+1,430,0,3,,,,0,Possess Cannabis/20 Grams Or Less,0,430,1,Battery,3,1,burrows,brittany,2855,0,25,0,0,0,1,0,1,3,0,0,1,1,0,0,0,0,0,0,1
+0,1129,0,7,,,,0,,,,0,Viol Prot Injunc Repeat Viol,6,1,taylor,floyd,10077,1,25,0,3,1,6,0,1,6,1,1,6,1,0,0,0,0,0,0,0
+0,843,78,2,,,,0,,,,0,Grand Theft in the 3rd Degree,5,2,smaglik,corey,9045,1,46,0,0,0,0,1,79,5,1,0,0,0,0,1,0,0,0,0,0
+1,198,0,8,,,,0,Operating W/O Valid License,1,198,1,Battery,6,0,dryden,ronnie,8315,1,24,2,1,0,3,0,0,6,1,2,3,1,0,0,0,0,0,0,1
+0,843,0,1,,,,0,Possession of Oxycodone,5,843,1,Possession Of Alprazolam,1,2,rosen,jamie,2095,1,53,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+1,110,0,2,Battery,17/05/2014,0,1,Viol Pretrial Release Dom Viol,0,110,1,Battery,1,1,lawrence,david,8544,1,29,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+0,1180,0,1,,,,0,,,0,0,DUI Property Damage/Injury,2,1,graham,melanie,6712,0,41,0,0,0,1,0,0,2,0,0,1,0,0,1,0,0,0,0,0
+0,825,14,2,,,,0,,,,0,Felony Battery,1,1,juma,ali,10360,1,29,0,0,0,0,1,14,1,0,0,0,0,0,1,0,0,0,0,0
+0,289,2,1,,,,0,,,,0,Petit Theft,2,2,hough,fredrick,8659,1,53,0,0,0,5,0,2,2,0,0,5,1,0,0,0,0,0,0,0
+1,396,0,3,,,,0,Petit Theft,1,396,1,Cruelty Toward Child,3,1,williams,craig,9777,1,38,0,0,0,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1
+0,899,0,3,,,,0,,,,0,arrest case no charge,3,1,flores,travoy,8605,1,35,0,0,0,6,1,1,3,0,0,6,1,0,0,0,0,0,0,0
+0,955,0,1,,,,0,,,,0,Battery,2,1,chudicek,kristi,5837,0,34,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0
+0,67,0,1,,,,0,,,,0,Fel Drive License Perm Revoke,1,2,lozano,cristino,4804,1,67,0,0,0,2,1,98,1,0,0,2,0,0,0,1,0,0,0,0
+1,962,1,3,,,,0,Neglect Child / No Bodily Harm,5,42352,1,,2,1,lucas,oswaldo,9205,1,26,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+0,912,0,2,,,,0,,,,0,Battery,2,1,ruiz,rut,3301,0,30,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0
+0,323,0,1,,,,0,,,,0,arrest case no charge,5,1,harper,tyson,4569,1,37,0,0,0,5,0,105,5,1,0,5,0,0,1,0,0,0,0,0
+1,152,0,10,Battery,21/03/2014,0,1,Viol Injunct Domestic Violence,0,152,1,arrest case no charge,9,1,patterson,christopher,1202,1,32,0,0,1,22,1,0,9,2,2,22,1,0,0,0,0,0,0,1
+0,778,1,7,,,,0,,,,0,Agg Battery Grt/Bod/Harm,10,1,howard,nikki,6264,0,29,0,0,0,0,1,2,10,2,1,0,1,0,0,0,0,0,0,0
+0,861,0,3,,,,0,,,,0,DUI Property Damage/Injury,2,0,villa,juan,6614,1,23,0,0,1,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0
+0,1138,0,3,,,,0,,,,0,Aggravated Assault W/dead Weap,7,1,wilson,crissie,258,0,32,0,0,0,5,1,1,7,1,0,5,1,0,0,0,0,0,0,0
+0,1101,0,1,,,,0,,,0,0,Susp Drivers Lic 1st Offense,1,2,schuster,edward,3855,1,60,0,0,0,3,0,0,1,0,0,3,0,0,1,0,0,0,0,0
+0,158,11,3,,,,0,,,,0,Driving While License Revoked,3,2,burnette,ephiram,611,1,56,0,0,0,5,1,12,3,0,0,5,1,0,0,0,0,0,0,0
+0,1086,0,1,,,,0,,,,0,Possession of Oxycodone,2,1,wagner,brian,5477,1,34,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0
+0,1135,1,1,,,,0,,,,0,DUI Level 0.15 Or Minor In Veh,1,2,kirkeleit,inger,4117,0,48,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+0,869,0,2,,,,0,,,,0,Battery,4,1,major,charles,4281,1,29,0,0,0,4,0,1,4,0,0,4,1,0,0,0,0,0,0,0
+0,27,0,1,Agg Fleeing/Eluding High Speed,20/03/2015,0,1,Driving License Suspended,1,102,1,DUI Level 0.15 Or Minor In Veh,1,2,grady,robert,9087,1,59,0,0,0,2,0,1,1,0,0,2,0,0,1,0,0,0,0,1
+0,1174,18,1,,,,0,,,,0,arrest case no charge,1,2,meixner,walter,2538,1,66,0,0,0,1,0,19,1,0,0,1,0,0,1,0,0,0,0,0
+1,717,1,1,,,,0,Driving License Suspended,1,716,1,Battery,1,2,evans,benny,884,1,66,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+1,116,4,6,,,,0,Burglary Conveyance Unoccup,5,112,1,arrest case no charge,9,1,williams,gavin,5119,1,31,5,0,0,10,1,5,9,2,1,10,1,0,0,0,0,0,0,1
+1,21,0,3,,,,0,Possession of Cocaine,5,21,1,Possession Of Heroin,3,2,accurso,sande,8748,1,65,0,0,0,1,1,1,3,0,0,1,0,0,1,0,0,0,0,1
+0,770,0,2,,,,0,,,0,0,Conspiracy to Deliver Cocaine,5,1,santiago,ruben,8317,1,37,0,0,0,4,1,0,5,1,0,4,0,0,0,1,0,0,0,0
+0,301,1,4,,,,0,Disorderly Conduct,1,300,1,Battery,5,1,stephens,armond,5680,1,32,0,0,0,6,0,2,5,1,0,6,1,0,0,0,0,0,0,1
+0,903,1,1,,,,0,,,,0,DUI Level 0.15 Or Minor In Veh,1,2,bauman,lawrence,8225,1,62,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,131,1,5,,,,0,Susp Drivers Lic 1st Offense,1,130,1,arrest case no charge,4,0,belancourt,piterson,2133,1,22,0,0,0,5,1,2,4,0,1,5,0,0,0,0,0,1,0,1
+0,888,0,1,,,,0,,,,0,Possess Controlled Substance,1,2,battiste,ruth,10130,0,48,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0
+0,138,1,3,,,,0,,,,0,Driving While License Revoked,2,1,novoa,fidel,3736,1,44,0,0,0,4,1,2,2,0,0,4,0,0,1,0,0,0,0,0
+0,1121,0,5,,,,0,,,,0,Pos Cannabis W/Intent Sel/Del,3,0,fabre,gaellen,2952,1,22,0,0,0,0,1,1,3,0,1,0,1,0,0,0,0,0,0,0
+0,60,0,4,,,,0,Present Proof of Invalid Insur,0,105,1,Driving While License Revoked,3,2,carte,terry,7690,1,46,0,0,0,14,1,1,3,0,0,14,0,0,1,0,0,0,0,1
+1,503,243,6,,,,0,Driving License Suspended,1,260,1,arrest case no charge,7,1,gadsen,james,5116,1,28,0,1,0,10,1,244,7,1,1,10,1,0,0,0,0,0,0,1
+0,959,0,1,,,,0,,,,0,Lve/Scen/Acc/Veh/Prop/Damage,1,1,rapone,peter,1501,1,42,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+0,951,0,4,,,,0,,,,0,Battery,3,0,lherisse,taketha,5697,0,22,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0
+0,255,0,3,,,,0,,,,0,arrest case no charge,2,1,reid,daniel,5071,1,25,0,0,0,1,1,1,2,0,0,1,1,0,0,0,0,0,0,0
+1,17,1,2,,,,0,Petit Theft,1,16,1,arrest case no charge,2,1,ford,devion,7531,1,30,0,0,0,3,1,1,2,0,0,3,1,0,0,0,0,0,0,1
+0,270,1,3,,,,0,,,,0,Deliver Cocaine,5,1,ortiz,tommy,8723,1,37,0,0,0,9,1,2,5,1,0,9,0,0,0,1,0,0,0,0
+1,151,3,3,Felony Battery (Dom Strang),24/06/2013,5,1,Felony Battery (Dom Strang),5,148,1,Battery,2,1,rickard,cody,2420,1,28,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,1
+1,259,33,4,Battery,25/07/2014,0,1,Battery,0,226,1,Battery,3,1,grant,wade,9756,1,28,0,0,0,4,0,34,3,0,0,4,1,0,0,0,0,0,0,1
+1,159,1,3,Agg Fleeing and Eluding,25/10/2013,5,1,Tampering With Physical Evidence,5,158,1,Viol Prot Injunc Repeat Viol,8,1,graham,jahara,3602,1,35,0,0,0,10,0,1,8,2,0,10,1,0,0,0,0,0,0,1
+1,335,0,4,Battery,9/9/15,0,1,Battery,0,335,1,Assault,2,1,finnegan,daniel,10637,1,43,0,0,0,6,0,1,2,0,0,6,0,0,1,0,0,0,0,1
+0,856,1,2,,,,0,,,,0,"Poss3,4 Methylenedioxymethcath",2,1,miranda,yoan,8816,1,35,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0
+1,138,32,9,,,,0,Aggrav Stalking After Injunctn,5,106,1,Grand Theft (Motor Vehicle),10,1,childs,rayshawn,8873,1,29,0,0,0,16,1,33,10,2,2,16,1,0,0,0,0,0,0,1
+1,50,48,5,,,,0,Trespass Other Struct/Conve,0,2,1,Battery on Law Enforc Officer,10,1,slayden,marvin,10512,1,27,0,0,0,15,1,49,10,2,1,15,1,0,0,0,0,0,0,1
+0,1174,0,6,,,,0,,,0,0,Possession of Cannabis,8,0,brown,marcu,5,1,23,0,1,0,1,1,0,8,2,1,1,1,0,0,0,0,0,0,0
+0,64,0,8,,,,0,Susp Drivers Lic 1st Offense,1,335,1,Possession of Cocaine,10,1,smith,lucius,4181,1,32,2,0,0,26,1,1,10,2,2,26,1,0,0,0,0,0,0,1
+1,343,25,2,,,,0,Petit Theft $100- $300,0,318,1,Agg Battery Grt/Bod/Harm,9,1,conyers,shamika,8899,0,34,0,0,0,5,1,26,9,2,0,5,1,0,0,0,0,0,0,1
+1,130,0,5,,,,0,Petit Theft,1,130,1,arrest case no charge,8,1,davis,shamik,2933,1,26,0,0,0,8,1,0,8,2,1,8,1,0,0,0,0,0,0,1
+0,907,29,1,,,,0,,,,0,Driving Under The Influence,2,1,zacariasreyes,rosa,6774,1,38,0,0,0,2,0,29,2,0,0,2,0,0,0,1,0,0,0,0
+0,1136,0,2,,,,0,,,0,0,Possess Cannabis/20 Grams Or Less,4,1,pierrelouis,james,7218,1,31,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0
+0,607,0,1,,,,0,,,,0,Possess Cannabis/20 Grams Or Less,5,2,rumph,henry,5768,1,65,0,0,0,7,0,1,5,1,0,7,1,0,0,0,0,0,0,0
+1,223,1,3,,,,0,Driving While License Revoked,5,222,1,Driving While License Revoked,4,1,duncan,almond,8611,1,27,0,0,0,7,1,2,4,0,0,7,1,0,0,0,0,0,0,1
+0,1159,1,5,,,,0,,,,0,Aggravated Assault W/dead Weap,7,2,morales,james,7148,1,45,0,0,0,8,1,1,7,1,1,8,0,0,0,1,0,0,0,0
+0,1123,64,3,,,,0,,,,0,Tampering with a Victim,3,1,grimmer,steven,5051,1,30,0,1,1,3,1,65,3,0,0,3,0,0,1,0,0,0,0,0
+0,775,0,2,,,,0,,,,0,Battery,2,1,guzmansilva,jesus,4414,1,34,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0
+0,854,62,7,,,,0,,,,0,arrest case no charge,5,1,fisher,jay,7818,1,41,0,0,0,1,1,62,5,1,1,1,0,0,1,0,0,0,0,0
+0,99,0,10,,,,0,Possession of Cocaine,5,264,1,Battery on Law Enforc Officer,8,0,cemelus,celoues,8885,1,22,0,1,0,1,1,0,8,2,2,1,1,0,0,0,0,0,0,1
+1,44,0,4,,,,0,Petit Theft,1,45,1,Aide/Abet Prostitution Lewdness,4,1,nani,bianca,8356,0,25,0,0,0,1,0,1,4,0,0,1,0,0,1,0,0,0,0,1
+1,53,0,6,,,,0,Burglary Unoccupied Dwelling,4,53,1,Attempted Burg/Convey/Unocc,4,0,bankston,damani,5463,1,21,0,0,0,1,1,1,4,0,1,1,1,0,0,0,0,0,0,1
+0,844,0,5,,,,0,,,,0,Possession of Cocaine,4,0,carr,ryan,532,1,22,0,0,0,0,1,0,4,0,1,0,0,0,1,0,0,0,0,0
+1,149,0,5,,,,0,Grand Theft in the 3rd Degree,5,149,1,Resist/Obstruct W/O Violence,5,0,vallejo,luis,715,1,23,0,0,1,1,0,0,5,1,1,1,0,0,1,0,0,0,0,1
+1,59,34,9,,,,0,Resist/Obstruct W/O Violence,0,25,1,Battery,10,0,collins,kenyatti,4592,1,21,0,0,1,0,0,35,10,2,2,0,1,0,0,0,0,0,0,1
+1,234,0,1,,,,0,Lve/Scen/Acc/Veh/Prop/Damage,1,234,1,Felony Driving While Lic Suspd,1,1,daley,paul,10319,1,43,0,0,0,3,1,1,1,0,0,3,1,0,0,0,0,0,0,1
+0,1165,49,3,,,,0,,,,0,arrest case no charge,2,2,payne,gary,6394,1,47,0,0,0,1,1,50,2,0,0,1,1,0,0,0,0,0,0,0
+0,48,0,4,,,,0,,,,0,Agg Fleeing and Eluding,4,1,mcmullen,nathan,9985,1,42,0,0,0,8,1,1,4,0,0,8,0,0,1,0,0,0,0,0
+1,47,1,3,,,,0,Petit Theft,1,46,1,Battery,2,1,lytle,antonio,1894,1,27,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,1
+1,113,0,5,,,,0,Resist/Obstruct W/O Violence,0,113,1,Poss Pyrrolidinovalerophenone,5,0,jeudy,dieucica,5223,0,23,0,0,0,1,1,2,5,1,1,1,1,0,0,0,0,0,0,1
+0,45,0,6,,,,0,,,,0,Possession of Cocaine,8,1,couch,laurence,6048,1,31,0,0,0,6,1,0,8,2,1,6,1,0,0,0,0,0,0,0
+1,757,2,1,,,,0,Possess Cannabis/20 Grams Or Less,0,755,1,Battery,1,1,hussain,hussain,9127,1,39,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0
+1,40,32,4,,,,0,Sex Offender Fail Comply W/Law,5,8,1,Possession of Cocaine,8,2,johnkins,oliver,3966,1,59,0,0,0,14,1,33,8,2,0,14,1,0,0,0,0,0,0,1
+1,459,43,4,,,,0,Driving License Suspended,1,416,1,Assault,6,1,porter,william,7832,1,40,0,0,0,8,0,43,6,1,0,8,1,0,0,0,0,0,0,1
+0,1019,0,2,,,,0,,,,0,Battery Emergency Care Provide,2,2,lowder,darren,1916,0,54,0,0,0,1,1,76,2,0,0,1,0,0,1,0,0,0,0,0
+0,953,0,2,,,,0,,,,0,Burglary Conveyance Assault/Bat,1,1,wells,venorrice,6129,1,28,0,0,0,1,1,49,1,0,0,1,1,0,0,0,0,0,0,0
+0,1090,1,7,,,,0,,,,0,Deliver Cannabis,8,0,simon,michall,1120,1,24,0,0,0,0,1,1,8,2,1,0,1,0,0,0,0,0,0,0
+0,1166,19,4,,,,0,,,,0,Burglary With Assault/battery,8,1,hall,jermaine,2543,1,37,2,3,0,24,1,20,8,2,0,24,1,0,0,0,0,0,0,0
+0,1087,0,1,,,,0,,,0,0,,1,2,orbera,hugo,1475,1,56,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+1,136,86,9,,,,0,Possess Cannabis/20 Grams Or Less,0,50,1,Grand Theft in the 3rd Degree,10,0,pratt,tajdrick,4681,1,21,0,0,0,1,1,86,10,2,2,1,1,0,0,0,0,0,0,1
+1,88,0,3,,,,0,Possess Cannabis/20 Grams Or Less,0,88,1,Battery,4,1,balentine,jessalyn,6885,0,28,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,1,0,1
+0,1151,3,1,,,,0,,,,0,Criminal Mischief>$200<$1000,2,2,duhaney,trevor,9577,1,47,0,0,0,3,0,4,2,0,0,3,0,0,0,0,0,1,0,0
+1,674,0,2,,,,0,Fail Register Vehicle,1,42305,1,Battery,2,1,cam,sheldon,1488,1,32,0,1,0,5,0,0,2,0,0,5,1,0,0,0,0,0,0,1
+0,284,7,4,,,,0,Trafficking 4-14 Grams Heroin,3,595,1,Battery,4,0,iglesias,giovanni,9914,1,23,0,1,0,4,0,8,4,0,0,4,0,0,1,0,0,0,0,1
+1,96,5,8,Robbery W/Firearm,21/01/2015,3,1,Trespass Struct/Conveyance,1,91,1,Burglary Structure Unoccup,5,0,etienne,angeles,3174,1,21,0,0,0,0,1,6,5,1,2,0,0,0,0,0,0,1,0,1
+0,1122,0,6,,,,0,,,,0,Possession of Cannabis,6,1,fernandez,jorge,874,1,26,0,0,0,4,1,0,6,1,1,4,0,0,0,1,0,0,0,0
+0,915,0,1,,,,0,,,,0,Battery,2,2,sternal,william,2498,1,49,0,0,0,2,0,1,2,0,0,2,0,0,1,0,0,0,0,0
+0,253,0,2,,,,0,,,,0,arrest case no charge,2,2,tuff,alton,8263,1,61,0,0,0,9,1,96,2,0,0,9,1,0,0,0,0,0,0,0
+1,800,115,3,Battery on Law Enforc Officer,9/12/15,5,1,Battery on Law Enforc Officer,5,685,1,Neglect Child / No Bodily Harm,7,1,davidson,andrea,4466,0,34,0,0,0,1,1,116,7,1,0,1,1,0,0,0,0,0,0,1
+0,821,1,1,,,,0,,,,0,Battery,1,2,satterfield,nicholas,6259,1,45,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+1,292,0,1,,,,0,Driving Under The Influence,0,293,1,Battery,1,1,zavala,jahaida,5532,0,37,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+1,265,1,5,,,,0,Petit Theft $100- $300,0,264,1,Battery,3,0,valenzuela,luis,2324,1,22,0,0,0,0,0,1,3,0,1,0,0,0,0,1,0,0,0,1
+1,289,0,3,,,,0,Susp Drivers Lic 1st Offense,1,289,1,Pos Cannabis W/Intent Sel/Del,2,0,jones,donald,9201,1,24,0,0,1,1,1,1,2,0,0,1,1,0,0,0,0,0,0,1
+0,851,0,1,,,,0,,,,0,Battery,1,2,jurado,adriana,3169,1,53,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,52,0,9,Assault,16/11/2014,1,1,Assault,1,472,1,arrest case no charge,10,0,tun,christopher,10990,1,23,0,2,1,5,0,13,10,2,2,5,0,0,1,0,0,0,0,1
+0,1041,1,3,,,,0,,,,0,Throw Missile Into Pub/Priv Dw,2,1,pagan,alberto,3600,1,27,0,0,0,1,1,2,2,0,0,1,0,0,0,1,0,0,0,0
+0,891,1,2,,,,0,,,,0,arrest case no charge,6,1,coley,stacy,2467,1,44,0,0,0,6,1,2,6,1,0,6,1,0,0,0,0,0,0,0
+0,994,0,4,,,,0,,,0,0,Operating W/O Valid License,5,1,roche,caritasse,8150,0,27,0,0,0,2,0,0,5,1,0,2,1,0,0,0,0,0,0,0
+0,217,0,1,,,,0,,,,0,Sell or Offer for Sale Counterfeit Goods,1,1,hampton,larry,9669,1,35,0,0,0,2,1,0,1,0,0,2,1,0,0,0,0,0,0,0
+0,958,3,1,,,,0,,,,0,Grand Theft in the 3rd Degree,4,2,hanon,eugene,2546,1,64,0,0,0,0,1,4,4,0,0,0,1,0,0,0,0,0,0,0
+0,858,0,1,,,,0,,,,0,arrest case no charge,1,2,shelly,otis,4154,1,52,0,0,0,1,0,10,1,0,0,1,1,0,0,0,0,0,0,0
+0,1038,15,2,,,,0,,,,0,Burglary Unoccupied Dwelling,2,1,holmes,gregory,10261,1,30,0,0,0,2,1,16,2,0,0,2,1,0,0,0,0,0,0,0
+1,446,1,2,Battery,25/04/2015,0,1,Driving License Suspended,1,445,1,Kidnapping / Domestic Violence,3,1,mora,michael,6386,1,28,0,0,0,2,1,2,3,0,0,2,0,0,0,1,0,0,0,1
+0,64,29,8,,,,0,Viol Injunct Domestic Violence,0,397,1,Felony Battery w/Prior Convict,8,1,manze,gregory,5545,1,31,0,0,0,4,1,29,8,2,2,4,0,0,1,0,0,0,0,1
+0,960,0,1,,,,0,,,,0,Possession of Cocaine,1,1,chu,andrew,163,1,43,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0
+0,795,0,5,,,,0,,,,0,Battery,4,1,llanos,iyana,8939,0,26,0,0,0,1,0,1,4,0,1,1,1,0,0,0,0,0,0,0
+0,1185,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,2,talavera,veronica,6111,0,48,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,49,0,7,,,,0,Possess Cannabis/20 Grams Or Less,0,49,1,Possession of Cocaine,7,1,french,ervin,10766,1,36,0,0,0,9,1,1,7,1,1,9,1,0,0,0,0,0,0,1
+0,1063,28,1,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,1,2,ramirezdiaz,carlos,3596,1,57,0,0,0,0,1,28,1,0,0,0,0,0,1,0,0,0,0,0
+0,816,0,1,,,,0,,,,0,DUI - Enhanced,2,1,lorenzo-luaces,alberto,1656,1,40,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0
+1,140,0,4,,,,0,Possess Cannabis/20 Grams Or Less,0,140,1,Viol Prot Injunc Repeat Viol,4,1,clarke,shawn,9865,1,30,1,0,0,9,0,1,4,0,0,9,1,0,0,0,0,0,0,1
+0,152,0,4,,,,0,Resist/Obstruct W/O Violence,0,152,1,arrest case no charge,3,1,harris,christopher,10618,1,32,0,0,0,4,1,1,3,0,0,4,1,0,0,0,0,0,0,1
+1,123,0,2,Battery,7/7/13,0,1,Battery,0,,1,arrest case no charge,5,1,king,william,1900,1,30,0,0,0,10,1,109,5,1,0,10,0,0,1,0,0,0,0,1
+1,27,4,6,,,,0,Possess Cannabis/20 Grams Or Less,0,23,1,Deliver Cocaine,7,1,bonner,clarence,137,1,36,0,0,0,9,1,4,7,1,1,9,1,0,0,0,0,0,0,1
+0,827,0,3,,,,0,,,,0,Battery,3,1,murphy,kristen,5795,0,25,0,0,0,0,0,1,3,0,0,0,0,0,1,0,0,0,0,0
+0,888,0,3,,,,0,,,,0,Driving While License Revoked,2,1,gayle,sean,6505,1,29,0,0,0,5,1,0,2,0,0,5,0,0,1,0,0,0,0,0
+0,66,0,5,Battery,29/04/2013,0,1,Resist/Obstruct W/O Violence,0,115,1,Possession of Hydrocodone,4,1,daphnis,rovens,4491,1,25,0,0,0,1,1,1,4,0,1,1,1,0,0,0,0,0,0,1
+1,36,0,3,,,,0,Driving License Suspended,1,36,1,Aggrav Battery w/Deadly Weapon,3,1,taylor,lashae,8000,0,26,0,0,0,1,1,1,3,0,0,1,1,0,0,0,0,0,0,1
+1,198,0,6,,,,0,Driving License Suspended,1,198,1,Possession of Hydrocodone,8,1,gonzalez,cesar,6851,1,27,0,0,0,7,1,1,8,2,1,7,0,0,1,0,0,0,0,1
+0,275,2,3,,,,0,,,,0,,4,1,sweeting,travis,8299,1,27,0,0,0,2,1,3,4,0,0,2,1,0,0,0,0,0,0,0
+1,68,38,2,,,,0,Obstuct By Solicitation,1,30,1,Possession of Cocaine,3,1,ross,brandon,6926,1,31,0,0,0,1,1,39,3,0,0,1,0,0,1,0,0,0,0,1
+0,1071,48,4,,,,0,,,,0,"Poss3,4 Methylenedioxymethcath",3,1,billie,reuben,2263,1,28,0,0,0,2,1,49,3,0,0,2,0,0,0,0,1,0,0,0
+0,730,0,2,,,,0,,,,0,arrest case no charge,2,1,figueroa,tony,3993,1,41,0,0,0,2,1,129,2,0,0,2,0,0,0,1,0,0,0,0
+0,1019,0,1,,,,0,,,,0,Driving Under The Influence,1,2,mcmahon,joseph,2291,1,72,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+0,1169,0,5,,,,0,,,,0,Sel/Pur/Mfr/Del Control Substa,5,0,tejera,andres,2616,1,23,0,0,0,2,1,1,5,1,1,2,0,0,0,1,0,0,0,0
+0,835,0,3,,,,0,,,,0,Disorderly Intoxication,9,1,chaj,edwin,4280,1,29,0,0,0,1,0,1,9,2,0,1,0,0,0,1,0,0,0,0
+1,119,0,4,Robbery W/Firearm,20/12/2014,3,1,Trespass After Warning,0,119,1,Battery,9,1,sims,willie,350,1,30,0,0,2,11,0,1,9,2,0,11,1,0,0,0,0,0,0,1
+1,41,0,1,,,,0,Viol Injunct Domestic Violence,0,48,1,Burglary Unoccupied Dwelling,4,1,gardner,kerisha,4172,0,38,0,0,0,6,1,27,4,0,0,6,0,0,0,0,0,1,0,1
+0,1104,0,3,,,,0,,,,0,Battery,3,0,hollmann,marialys,5988,0,23,0,0,0,0,0,1,3,0,0,0,0,0,1,0,0,0,0,0
+1,155,0,6,,,,0,Petit Theft,1,155,1,Tampering With Physical Evidence,4,0,whyte,everan,6469,1,21,0,0,0,0,1,1,4,0,1,0,0,0,0,0,0,1,0,1
+0,778,0,1,,,,0,,,,0,Susp Drivers Lic 1st Offense,1,1,zuniga,nelson,2802,1,43,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+0,837,0,1,,,,0,,,,0,Battery,1,2,ashen,stella,3620,0,53,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,40,0,2,,,,0,,,,0,Resist/Obstruct W/O Violence,6,1,wiess,elizabeth,8973,0,30,0,0,0,1,0,8,6,1,0,1,0,0,1,0,0,0,0,0
+0,94,0,5,,,,0,Petit Theft $100- $300,0,305,1,Uttering a Forged Instrument,5,0,montes,christopher,8222,1,21,0,0,0,0,1,1,5,1,1,0,0,0,1,0,0,0,0,1
+1,366,0,3,,,,0,Poss Pyrrolidinovalerophenone,5,403,1,Viol Prot Injunc Repeat Viol,2,1,cooper,antonio,378,1,27,0,0,0,3,0,7,2,0,0,3,1,0,0,0,0,0,0,1
+0,564,0,4,,,,0,Petit Theft,1,639,1,Carrying Concealed Firearm,6,1,walker,jason,6381,1,33,0,0,0,13,1,0,6,1,0,13,1,0,0,0,0,0,0,1
+1,189,3,3,,,,0,Grand Theft in the 3rd Degree,5,186,1,Tampering With Physical Evidence,7,2,linn,tammie,10793,0,46,0,0,0,7,1,4,7,1,0,7,0,0,1,0,0,0,0,1
+0,785,0,5,,,,0,,,,0,Grand Theft in the 3rd Degree,4,0,fleurima,chantel,2700,1,22,0,0,0,0,1,1,4,0,1,0,1,0,0,0,0,0,0,0
+0,868,18,2,,,,0,,,,0,arrest case no charge,2,1,ulloa,leonard,9861,1,39,0,0,0,2,1,18,2,0,0,2,0,0,1,0,0,0,0,0
+1,111,0,8,Battery,4/9/13,0,1,Resist/Obstruct W/O Violence,0,,1,Dealing In Stolen Property,9,0,lane,marcus,9740,1,21,0,2,0,2,0,48,9,2,2,2,1,0,0,0,0,0,0,1
+1,835,0,2,,,,0,Resist/Obstruct W/O Violence,0,837,1,Battery on Law Enforc Officer,1,2,bristol,jaynell,10781,1,47,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0
+1,234,5,7,,,,0,Possess Cannabis/20 Grams Or Less,0,229,1,Burglary Dwelling Occupied,9,0,mcreed,jonathan,6924,1,23,0,0,0,2,1,6,9,2,1,2,1,0,0,0,0,0,0,1
+0,805,1,3,,,,0,,,,0,arrest case no charge,3,1,patterson,krystal,9922,0,26,0,1,0,4,1,2,3,0,0,4,1,0,0,0,0,0,0,0
+0,940,7,2,,,,0,,,,0,Possession Of Methamphetamine,5,1,mcdade,jerod,4182,1,32,0,0,0,0,1,7,5,1,0,0,0,0,1,0,0,0,0,0
+1,371,0,6,,,,0,Possess Cannabis/20 Grams Or Less,0,371,1,Poss Firearm W/Altered ID#,4,0,wilson,omar,93,1,22,0,0,1,1,1,1,4,0,1,1,1,0,0,0,0,0,0,1
+0,292,185,9,Battery,27/09/2014,0,1,Battery,0,413,1,Possession of Cocaine,9,1,johnson,craig,4108,1,41,0,0,0,25,1,186,9,2,2,25,1,0,0,0,0,0,0,1
+0,31,0,6,Felony Battery (Dom Strang),2/2/15,5,1,Felony Battery (Dom Strang),5,118,1,Agg Assault W/int Com Fel Dome,6,0,harris,kwamane,3628,1,24,0,1,3,4,1,1,6,1,1,4,1,0,0,0,0,0,0,1
+1,275,0,4,Robbery / No Weapon,20/10/2013,4,1,Robbery / No Weapon,4,,1,arrest case no charge,3,0,rivera,antonio,6180,1,23,0,0,0,2,0,100,3,0,0,2,1,0,0,0,0,0,0,1
+0,670,0,1,,,,0,,,,0,Possession of Hydromorphone,4,2,wantuck,erik,4418,1,48,0,0,0,3,1,0,4,0,0,3,0,0,1,0,0,0,0,0
+0,480,0,1,,,,0,,,,0,Grand Theft (Motor Vehicle),1,1,marc,wilny,5785,1,33,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+1,501,483,6,,,,0,Felony Petit Theft,5,18,1,Burglary Conveyance Unoccup,10,1,torres,alfonso,3086,1,31,0,0,0,16,1,483,10,2,1,16,0,0,0,1,0,0,0,1
+0,933,0,3,,,,0,,,,0,arrest case no charge,3,1,bohl,matthew,6572,1,25,0,0,0,1,1,0,3,0,0,1,0,0,1,0,0,0,0,0
+0,1133,1,1,,,,0,,,,0,Agg Fleeing/Eluding High Speed,3,2,gomez,orlando,445,1,58,0,0,0,2,1,2,3,0,0,2,0,0,1,0,0,0,0,0
+1,68,0,5,,,,0,Driving License Suspended,1,68,1,Battery,7,1,darby,billy,1408,1,28,0,0,0,10,0,1,7,1,1,10,1,0,0,0,0,0,0,1
+1,85,0,1,Felony Battery w/Prior Convict,4/2/15,5,1,Viol Pretrial Release Dom Viol,0,88,1,Cruelty Toward Child,2,1,britt,ricardo,2141,1,37,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,1
+0,775,0,5,,,,0,,,,0,Battery,5,0,francis,rosetta,4376,0,23,0,0,0,0,0,1,5,1,1,0,0,0,0,0,0,1,0,0
+1,33,0,9,Battery,14/12/2014,0,1,Unlaw LicTag/Sticker Attach,1,,1,Prowling/Loitering,9,0,plummer,mark,376,1,22,0,0,0,3,0,1,9,2,2,3,1,0,0,0,0,0,0,1
+0,748,1,3,,,,0,,,,0,Pos Cannabis W/Intent Sel/Del,2,0,lipsey,ricky,8625,1,23,0,0,0,0,1,2,2,0,0,0,1,0,0,0,0,0,0,0
+0,791,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,2,antolick,keith,851,1,63,0,0,0,1,0,6,1,0,0,1,0,0,1,0,0,0,0,0
+0,300,0,6,,,,0,,,,0,Carrying A Concealed Weapon,8,1,newson,timothy,3506,1,26,0,0,0,7,0,1,8,2,1,7,1,0,0,0,0,0,0,0
+0,938,28,1,,,,0,,,,0,arrest case no charge,1,1,morgan,tiffany,6645,0,37,0,0,0,3,1,29,1,0,0,3,1,0,0,0,0,0,0,0
+0,66,2,6,,,,0,,,,0,"Poss3,4 Methylenedioxymethcath",7,0,claros,sebastian,398,1,22,0,0,1,0,1,2,7,1,1,0,0,0,0,1,0,0,0,0
+0,789,12,5,,,,0,,,,0,Burglary Conveyance Armed,3,0,martins,daniel,10439,1,21,0,0,0,0,1,14,3,0,1,0,1,0,0,0,0,0,0,0
+0,1181,0,1,,,,0,,,,0,Battery,1,1,coppin,roylon,1925,1,40,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+0,971,1,2,,,,0,,,,0,Battery,2,1,garcia,franco,3991,1,29,0,0,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0
+1,349,0,5,,,,0,Petit Theft,1,,1,Grand Theft in the 3rd Degree,7,1,jones,greg,6378,1,41,2,0,0,16,1,0,7,1,1,16,1,0,0,0,0,0,0,1
+1,424,0,3,,,,0,Driving License Suspended,1,424,1,Battery,7,1,strachan,shaun,5740,1,31,0,0,0,9,0,1,7,1,0,9,1,0,0,0,0,0,0,1
+0,879,4,1,,,,0,,,,0,Battery,1,2,bard,glenn,5886,1,53,0,0,0,0,0,4,1,0,0,0,0,0,1,0,0,0,0,0
+1,123,0,1,,,,0,Petit Theft,1,123,1,Possession of Cocaine,1,2,covington,aeritta,5889,0,52,0,0,0,2,1,1,1,0,0,2,1,0,0,0,0,0,0,1
+0,831,2,4,,,,0,,,,0,arrest case no charge,7,0,matthews,kasha,9450,0,24,0,0,0,0,1,2,7,1,0,0,1,0,0,0,0,0,0,0
+0,577,1,6,,,,0,,,,0,arrest case no charge,6,0,yamin,robert,530,1,21,0,0,0,2,1,2,6,1,1,2,0,0,1,0,0,0,0,0
+1,348,1,1,,,,0,Operating W/O Valid License,1,347,1,arrest case no charge,2,1,gillstrap,adam,6751,1,35,0,0,0,2,1,2,2,0,0,2,0,0,1,0,0,0,0,1
+0,891,51,3,,,,0,,,,0,False Ownership Info/Pawn Item,6,1,hampton,braden,7387,1,43,0,0,0,12,1,52,6,1,0,12,0,0,1,0,0,0,0,0
+1,739,0,1,,,,0,Grand Theft in the 3rd Degree,5,739,1,Susp Drivers Lic 1st Offense,2,1,corley,marc,1710,1,37,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0
+0,775,1,5,,,,0,,,,0,Battery,6,1,carter,articia,6730,0,31,0,0,0,0,0,2,6,1,1,0,1,0,0,0,0,0,0,0
+0,541,1,2,,,,0,,,,0,Susp Drivers Lic 1st Offense,6,1,jagpal,sunil,8949,0,39,0,0,0,3,0,2,6,1,0,3,1,0,0,0,0,0,0,0
+0,812,0,1,,,,0,,,,0,DUI Property Damage/Injury,1,1,savage,genevieve,6802,0,38,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0
+1,288,0,3,,,,0,Possess Cannabis/20 Grams Or Less,0,288,1,False Imprisonment,3,1,espinal,ezequiel,3897,1,30,0,0,0,0,1,1,3,0,0,0,0,0,1,0,0,0,0,1
+1,4,0,1,,,,0,Fraudulent Use of Credit Card,5,,1,Grand Theft in the 3rd Degree,1,2,maxwell,stephen,5863,1,50,0,0,0,13,1,243,1,0,0,13,1,0,0,0,0,0,0,1
+0,1042,4,1,,,,0,,,,0,arrest case no charge,5,2,garcia,elexis,1630,0,49,0,0,0,4,1,4,5,1,0,4,0,0,1,0,0,0,0,0
+0,843,2,3,,,,0,,,,0,Battery,4,1,miranda,mathew,6976,1,26,0,0,0,0,0,3,4,0,0,0,0,0,1,0,0,0,0,0
+0,16,0,9,Felony Battery w/Prior Convict,7/7/13,5,1,Felony Battery w/Prior Convict,5,11,1,Battery on Law Enforc Officer,10,0,brunson,neyesha,5402,0,23,0,0,0,2,1,116,10,2,2,2,1,0,0,0,0,0,0,1
+0,784,2,2,,,,0,,,,0,Burglary Dwelling Occupied,5,1,zaren,gusdino,9337,1,44,0,0,0,1,1,2,5,1,0,1,0,0,1,0,0,0,0,0
+0,995,0,3,,,,0,,,,0,Grand Theft in the 3rd Degree,6,1,gonzalez,rodolfo,8289,1,29,0,0,0,1,1,1,6,1,0,1,0,0,1,0,0,0,0,0
+0,74,0,5,,,,0,Operating W/O Valid License,1,74,1,arrest case no charge,5,1,smith,erica,1136,1,25,0,1,1,7,0,1,5,1,1,7,1,0,0,0,0,0,0,1
+1,48,34,8,,,,0,Possess Cannabis/20 Grams Or Less,0,14,1,Battery,8,0,hannah,quanesia,5537,0,22,0,1,0,2,0,35,8,2,2,2,1,0,0,0,0,0,0,1
+1,148,0,8,,,,0,Driving License Suspended,1,173,1,arrest case no charge,9,1,cotilla,ruben,750,1,29,0,0,0,6,1,18,9,2,2,6,0,0,1,0,0,0,0,1
+0,891,0,1,,,,0,,,,0,DUI Blood Alcohol Above 0.20,4,2,jackson,rufus,1515,1,51,0,0,0,17,0,0,4,0,0,17,1,0,0,0,0,0,0,0
+0,18,0,8,,,,0,Possess Cannabis/20 Grams Or Less,0,18,1,Tampering With Physical Evidence,9,1,corker,michael,229,1,27,0,0,0,2,1,1,9,2,2,2,1,0,0,0,0,0,0,1
+1,96,5,4,Agg Fleeing and Eluding,7/6/13,5,1,Opert With Susp DL 2nd Offens,0,91,1,arrest case no charge,7,1,whitehead,travis,10009,1,29,0,0,0,9,1,5,7,1,0,9,1,0,0,0,0,0,0,1
+0,58,0,2,Aggravated Battery / Pregnant,29/08/2014,0,1,Battery,0,447,1,Possession of Hydromorphone,5,1,schmidt,frank,4887,1,29,0,0,0,6,1,1,5,1,0,6,0,0,1,0,0,0,0,1
+1,890,625,8,,,,0,Driving License Suspended,1,723,1,Possession Burglary Tools,7,1,dean,shalaun,3787,1,27,0,0,0,1,1,168,7,1,2,1,1,0,0,0,0,0,0,1
+0,904,0,1,,,,0,,,,0,Possession of Cocaine,4,1,carrion,saul,3292,1,38,0,0,0,3,1,0,4,0,0,3,0,0,0,1,0,0,0,0
+1,394,0,1,,,,0,Trespass Other Struct/Conve,0,431,1,Grand Theft in the 3rd Degree,4,1,cirrincione,anthony,2736,1,36,0,0,0,14,1,1,4,0,0,14,0,0,1,0,0,0,0,1
+0,1085,0,3,,,,0,,,,0,Felony Battery (Dom Strang),2,1,centurion,ricardo,4680,1,34,0,0,0,0,1,1,2,0,0,0,0,0,0,1,0,0,0,0
+0,481,0,10,,,,0,,,,0,Felony DUI (level 3),8,2,evans,timothy,8995,1,55,0,0,0,7,1,0,8,2,2,7,0,0,1,0,0,0,0,0
+0,1064,0,1,,,,0,,,,0,Deliver Alprazolam,1,2,paccione,lonnie,1049,1,53,0,0,0,2,1,1,1,0,0,2,0,0,1,0,0,0,0,0
+1,508,3,3,,,,0,Burglary Conveyance Unoccup,5,505,1,Poss/pur/sell/deliver Cocaine,9,2,white,gregory,4316,1,52,0,0,0,7,1,4,9,2,0,7,1,0,0,0,0,0,0,1
+0,790,0,1,,,,0,,,,0,Battery,2,1,penaranda,rogrigo,3491,1,35,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0
+0,1151,0,2,,,,0,,,,0,Possession Burglary Tools,2,1,hernandez-castro,roberto,1375,1,28,0,0,0,1,1,9,2,0,0,1,0,0,0,1,0,0,0,0
+1,848,0,4,,,,0,Fail Register Vehicle,1,848,1,arrest case no charge,5,1,pierre,ronald,9416,1,26,0,0,0,1,1,1,5,1,0,1,1,0,0,0,0,0,0,0
+0,613,4,2,,,,0,Driving License Suspended,1,840,1,arrest case no charge,2,1,nelson,oneil,9516,1,32,0,3,0,7,1,5,2,0,0,7,1,0,0,0,0,0,0,0
+1,203,27,9,,,,0,Possess Cannabis/20 Grams Or Less,0,176,1,Robbery / No Weapon,7,1,chambers,deandre,10379,1,27,0,0,0,7,0,28,7,1,2,7,1,0,0,0,0,0,0,1
+1,10,0,3,,,,0,False Ownership Info/Pawn Item,5,,1,arrest case no charge,5,1,carter,kimberly,4945,0,27,0,0,0,2,1,62,5,1,0,2,0,0,1,0,0,0,0,1
+0,1179,2,1,,,,0,,,,0,Disorderly Conduct,1,2,still,gregory,1096,1,68,0,0,0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0
+0,969,0,6,,,,0,,,,0,Burglary Dwelling Assault/Batt,3,0,yopp,bryant,6345,1,20,0,0,0,0,1,4,3,0,1,0,1,0,0,0,0,0,0,0
+0,1004,0,2,,,,0,,,,0,DUI - Enhanced,2,2,izzo,brenda,1926,0,45,0,0,0,5,0,0,2,0,0,5,0,0,1,0,0,0,0,0
+0,851,0,1,,,,0,,,,0,DUI - Enhanced,1,2,torres,wilfredo,9939,1,50,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,1155,0,3,,,,0,,,,0,Driving Under The Influence,3,1,martinez,carlos,9460,1,40,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0
+0,869,0,1,,,,0,,,,0,arrest case no charge,1,1,berry,bryan,2052,1,43,0,0,0,2,1,2,1,0,0,2,0,0,1,0,0,0,0,0
+0,741,0,1,,,,0,,,,0,Felony Driving While Lic Suspd,3,2,thompson,james,2523,1,57,0,0,0,19,1,1,3,0,0,19,1,0,0,0,0,0,0,0
+0,967,0,1,,,,0,,,,0,Battery,1,2,cabrices,raphael,4252,1,47,0,0,0,2,0,1,1,0,0,2,0,0,1,0,0,0,0,0
+1,29,0,2,,,,0,Possession of Cocaine,5,29,1,Possess Cannabis/20 Grams Or Less,2,1,pendlebury,kristopher,7730,1,30,0,0,0,2,0,1,2,0,0,2,0,0,1,0,0,0,0,1
+0,417,1,6,,,,0,,,,0,Grand Theft in the 3rd Degree,6,0,figueroa,alexandra,2224,0,21,0,0,0,1,1,2,6,1,1,1,0,0,1,0,0,0,0,0
+0,182,0,1,,,,0,Driving License Suspended,1,620,1,Ride Tri-Rail Without Paying,1,2,boyd,william,6837,1,51,0,0,0,3,0,1,1,0,0,3,0,0,1,0,0,0,0,1
+0,382,36,4,,,,0,,,,0,Possession of Cocaine,5,0,wright,tyler,9435,1,24,0,0,0,3,1,36,5,1,0,3,0,0,1,0,0,0,0,0
+0,539,0,8,Battery,18/09/2015,0,1,Battery,0,370,1,Grand Theft In The 3Rd Degree,7,0,bankston,tamera,1777,0,21,1,2,2,3,1,59,7,1,2,3,1,0,0,0,0,0,0,0
+0,1099,53,2,,,,0,,,,0,arrest case no charge,3,1,palacios,miguel,3634,1,39,0,0,0,0,1,54,3,0,0,0,0,0,1,0,0,0,0,0
+0,1180,2,5,,,,0,,,,0,Battery,3,0,reinoso amaya,juan,5281,1,23,0,0,0,0,0,2,3,0,1,0,0,0,0,1,0,0,0,0
+0,1084,1,1,,,,0,,,,0,Possession of Cocaine,2,2,wilson,darron,1794,1,49,0,0,0,3,1,1,2,0,0,3,1,0,0,0,0,0,0,0
+1,355,1,3,,,,0,Driving Under The Influence,0,354,1,Aggravated Assault W/dead Weap,3,1,cashes,michael,9924,1,29,0,0,0,0,1,1,3,0,0,0,0,0,1,0,0,0,0,1
+0,1105,0,1,,,,0,,,,0,Resist Officer w/Violence,1,2,aragona,kim,10043,0,49,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+1,271,33,1,,,,0,Grand Theft in the 3rd Degree,5,238,1,Felony Petit Theft,7,2,ramirez,edwin,3375,1,52,0,0,0,9,1,34,7,1,0,9,0,0,0,1,0,0,0,1
+0,48,0,6,,,,0,Possess Drug Paraphernalia,0,303,1,Felony Driving While Lic Suspd,8,1,edwards,nathan,6117,1,37,0,0,0,11,1,1,8,2,1,11,1,0,0,0,0,0,0,1
+0,1068,0,1,,,,0,,,,0,Resist Officer w/Violence,1,2,lopezgaya,pedro,5703,1,49,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+0,1078,0,1,,,,0,,,,0,Possession of Oxycodone,2,2,allegretti,anthony,3525,1,56,0,0,0,5,1,8,2,0,0,5,0,0,1,0,0,0,0,0
+1,7,1,3,,,,0,Burglary Unoccupied Dwelling,4,6,1,arrest case no charge,6,1,smith,willie,1358,1,28,0,0,0,3,0,2,6,1,0,3,1,0,0,0,0,0,0,1
+1,465,6,4,,,,0,Possess Cannabis 1000FTSch,4,459,1,Poss Pyrrolidinovalerophenone,5,0,valcin,markenson,8142,1,23,0,0,1,1,1,7,5,1,0,1,1,0,0,0,0,0,0,1
+1,20,0,4,,,,0,Viol Injunct Domestic Violence,0,20,1,Aggravated Battery / Pregnant,4,1,latimore,anthony,5853,1,27,0,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,1
+0,780,3,4,,,,0,,,,0,,4,1,sandrin,bryan,243,1,39,1,0,0,1,0,4,4,0,0,1,0,0,1,0,0,0,0,0
+0,806,1,3,,,,0,,,,0,"Poss3,4 Methylenedioxymethcath",4,0,bassaragh,ryan,9686,1,24,0,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,0
+0,905,0,2,,,,0,,,,0,"Poss3,4 Methylenedioxymethcath",4,1,turbe,jarrod,18,1,41,0,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,0
+0,1168,133,4,,,,0,,,,0,Poss of Methylethcathinone,4,1,bass,timothy,2056,1,30,0,0,0,6,1,134,4,0,0,6,1,0,0,0,0,0,0,0
+0,1068,0,1,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,1,1,vento,michael,10377,1,41,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+0,382,0,7,,,,0,Driving License Suspended,1,537,1,Possession of Oxycodone,8,1,williams,jonathan,4715,1,35,0,0,0,12,1,1,8,2,1,12,1,0,0,0,0,0,0,1
+1,663,34,9,,,,0,Driving License Suspended,1,629,1,Possession Burglary Tools,8,1,harden,darryl,5014,1,27,0,0,0,6,1,35,8,2,2,6,1,0,0,0,0,0,0,1
+1,87,3,6,,,,0,Possession of Cocaine,5,84,1,Attempted Deliv Control Subst,7,1,blount,jatez,10930,1,29,0,2,0,7,1,4,7,1,1,7,1,0,0,0,0,0,0,1
+0,764,0,4,,,,0,,,,0,Battery,3,0,ng,wailim,2728,1,24,0,0,0,0,0,1,3,0,0,0,0,1,0,0,0,0,0,0
+0,1134,0,4,,,,0,,,,0,Extradition/Defendants,9,1,cordero,martin,5631,1,36,0,0,0,1,0,14,9,2,0,1,0,0,0,1,0,0,0,0
+0,1181,54,9,,,,0,,,,0,arrest case no charge,9,1,johnson,clinton,4591,1,25,0,2,1,9,1,54,9,2,2,9,0,0,1,0,0,0,0,0
+1,195,0,1,,,,0,Use of Anti-Shoplifting Device,5,195,1,Grand Theft in the 3rd Degree,2,1,contreras,mayker,8184,1,36,0,0,0,4,1,1,2,0,0,4,0,0,1,0,0,0,0,1
+0,886,1,1,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,1,1,fleurimond,judy,6960,0,31,0,0,0,0,1,2,1,0,0,0,1,0,0,0,0,0,0,0
+0,171,0,6,Robbery Sudd Snatch No Weapon,20/03/2014,5,1,Robbery Sudd Snatch No Weapon,5,211,1,Driving License Suspended,9,1,key,derrick,1759,1,41,0,0,0,17,0,47,9,2,1,17,0,0,1,0,0,0,0,1
+1,197,1,6,,,,0,Possess Drug Paraphernalia,0,196,1,Unauth Poss ID Card or DL,7,1,orie,horace,406,1,30,0,0,0,11,1,1,7,1,1,11,1,0,0,0,0,0,0,1
+0,642,0,1,,,,0,,,,0,Aggravated Assault w/Firearm,2,1,zurz,lavinel,2163,1,34,0,0,1,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0
+0,234,0,2,,,,0,,,,0,Possession Of Alprazolam,2,1,states,douglas,3535,1,32,0,0,0,2,1,1,2,0,0,2,0,0,1,0,0,0,0,0
+0,227,67,7,,,,0,Poss Pyrrolidinovalerophenone,5,279,1,Aggravated Battery / Pregnant,8,0,bowens,reshaud,5489,1,24,0,0,0,7,1,68,8,2,1,7,1,0,0,0,0,0,0,1
+0,37,0,8,,,,0,,,,0,arrest case no charge,8,0,mclemore,adrian,2246,1,21,0,0,0,1,1,8,8,2,2,1,1,0,0,0,0,0,0,0
+1,33,0,3,,,,0,Fail To Obey Police Officer,1,33,1,Battery,1,1,hamilton,alfonso,2281,1,26,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+0,1114,1,2,,,,0,,,,0,Possession of Cocaine,5,1,valenzuela,jorge,1829,0,30,0,0,0,0,1,1,5,1,0,0,0,0,1,0,0,0,0,0
+0,1070,2,1,,,,0,,,,0,Aggravated Assault W/dead Weap,1,2,wallace,telford,6791,1,57,0,0,0,3,1,2,1,0,0,3,1,0,0,0,0,0,0,0
+1,251,0,7,,,,0,Trespass Struct/Conveyance,1,270,1,arrest case no charge,6,0,archibald,ralante,10582,1,24,1,0,1,1,1,211,6,1,1,1,1,0,0,0,0,0,0,1
+0,1075,0,1,,,,0,,,,0,Driving Under The Influence,1,1,oktavec,gregory,2771,1,37,0,0,0,3,0,1,1,0,0,3,0,0,1,0,0,0,0,0
+0,785,0,2,,,,0,,,,0,Sell or Offer for Sale Counterfeit Goods,3,1,green,jerome,3577,1,38,0,0,0,4,1,0,3,0,0,4,1,0,0,0,0,0,0,0
+0,1110,0,5,,,,0,,,0,0,arrest case no charge,5,0,garwood,tamoy,4844,0,24,0,0,0,1,1,0,5,1,1,1,1,0,0,0,0,0,0,0
+0,786,8,4,,,,0,,,,0,Felony Battery (Dom Strang),3,0,anderson,curtis,9039,1,22,0,0,0,0,1,9,3,0,0,0,1,0,0,0,0,0,0,0
+0,1072,0,6,,,,0,,,,0,Grand Theft in the 3rd Degree,5,0,gray,terri-ann,2685,0,21,0,0,0,0,1,1,5,1,1,0,1,0,0,0,0,0,0,0
+1,29,3,1,Battery,10/1/14,0,1,Viol Pretrial Release Dom Viol,0,26,1,Felony Battery w/Prior Convict,4,2,mariney,gerard,6143,1,55,0,0,0,5,1,4,4,0,0,5,1,0,0,0,0,0,0,1
+1,125,6,2,,,,0,Petit Theft,1,119,1,Grand Theft in the 3rd Degree,6,1,forbes,laricka,7288,1,33,0,0,0,3,1,7,6,1,0,3,1,0,0,0,0,0,0,1
+1,55,0,4,Burglary With Assault/battery,19/07/2013,3,1,Resist/Obstruct W/O Violence,0,,1,Possession of Cannabis,6,1,mccullough,lamar,7328,1,32,0,0,0,6,1,35,6,1,0,6,1,0,0,0,0,0,0,1
+0,931,0,4,,,,0,,,,0,DUI Level 0.15 Or Minor In Veh,2,0,ali,nadeem,10788,1,22,0,0,0,1,0,0,2,0,0,1,0,1,0,0,0,0,0,0
+0,765,0,1,,,,0,,,,0,Drivg While Lic Suspd/Revk/Can,1,2,klein,dori,724,1,47,0,0,0,3,1,1,1,0,0,3,0,0,1,0,0,0,0,0
+1,61,0,4,Battery on a Person Over 65,10/4/13,5,1,Battery on a Person Over 65,5,,1,Battery,8,2,ware,leroy,800,1,55,0,0,0,0,0,45,8,2,0,0,1,0,0,0,0,0,0,1
+0,915,0,10,,,,0,,,,0,Possession of Benzylpiperazine,9,0,jones,antwane,2110,1,22,0,3,0,3,1,0,9,2,2,3,1,0,0,0,0,0,0,0
+1,366,1,5,,,,0,Driving License Suspended,1,365,1,Felony Driving While Lic Suspd,8,1,glasgow,shawn,1048,1,44,0,0,0,14,1,2,8,2,1,14,1,0,0,0,0,0,0,1
+0,373,0,3,,,,0,,,,0,Robbery / No Weapon,5,1,mills,miesha,4834,0,27,0,0,0,3,1,1,5,1,0,3,1,0,0,0,0,0,0,0
+0,740,0,1,,,,0,,,,0,Battery,3,1,armstrong,robert,7240,1,33,0,0,0,4,0,1,3,0,0,4,1,0,0,0,0,0,0,0
+0,997,0,4,,,,0,,,,0,Felony Battery w/Prior Convict,4,1,hernandez,christopher,7525,1,26,0,0,0,2,1,0,4,0,0,2,0,0,1,0,0,0,0,0
+0,776,44,6,,,,0,,,,0,Battery,4,0,love,jalandon,7153,1,21,0,0,0,0,0,45,4,0,1,0,1,0,0,0,0,0,0,0
+1,140,0,7,,,,0,Possess Drug Paraphernalia,0,140,1,Battery,4,0,polynice,jamarc,4128,1,20,0,0,0,0,0,1,4,0,1,0,1,0,0,0,0,0,0,1
+0,941,0,1,,,,0,,,,0,Grand Theft in the 3rd Degree,1,2,connors,kevin,727,1,56,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+1,424,0,1,,,,0,DUI Property Damage/Injury,0,425,1,Poss Contr Subst W/o Prescript,1,2,maxwell,alicja,2690,0,53,0,0,0,4,1,0,1,0,0,4,0,0,1,0,0,0,0,1
+1,296,3,1,,,,0,Trespass After Warning,0,293,1,Battery,1,2,fox,reginald,7027,1,49,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,0,1
+1,83,21,5,Robbery Sudd Snatch No Weapon,13/06/2015,5,1,Viol Injunct Domestic Violence,0,62,1,Burglary Dwelling Assault/Batt,6,1,willingham,joey,2335,1,28,0,0,0,4,1,21,6,1,1,4,1,0,0,0,0,0,0,1
+0,821,0,3,,,,0,,,,0,Neglect Child / No Bodily Harm,7,1,kirby,christopher,7981,1,37,1,6,0,13,1,1,7,1,0,13,0,0,1,0,0,0,0,0
+1,536,0,2,DOC/Engage In Fighting,27/10/2014,2,1,Renting For Prostitution,1,739,1,Disorderly Conduct,5,1,ortiz,jose,4375,1,37,0,0,0,1,0,0,5,1,0,1,0,0,1,0,0,0,0,1
+1,135,1,8,,,,0,Possession of Cocaine,5,134,1,Possession of Cocaine,9,1,wilson,travis,6775,1,27,0,1,0,9,1,2,9,2,2,9,1,0,0,0,0,0,0,1
+0,965,0,1,,,,0,,,,0,Grand Theft in the 1st Degree,1,2,mosco,rose,2140,0,59,0,0,0,1,1,5,1,0,0,1,0,0,1,0,0,0,0,0
+1,707,6,4,,,,0,Extradition/Defendants,0,701,1,Traff In Cocaine <400g>150 Kil,5,1,galvis,eimar,4525,1,29,0,0,0,0,1,7,5,1,0,0,0,0,0,1,0,0,0,1
+0,1154,0,3,,,,0,,,,0,arrest case no charge,5,1,neal,latoya,7490,0,31,0,0,0,1,0,1,5,1,0,1,1,0,0,0,0,0,0,0
+1,198,0,3,,,,0,Unlaw Use False Name/Identity,0,198,1,arrest case no charge,6,2,mcclain,fred,7865,1,47,0,0,0,12,1,98,6,1,0,12,1,0,0,0,0,0,0,1
+1,215,0,3,Battery,2/3/15,0,1,Battery,0,306,1,arrest case no charge,4,1,koons,michael,10420,1,28,0,0,0,4,1,60,4,0,0,4,0,0,1,0,0,0,0,1
+1,261,0,1,,,,0,Unlicensed Contractor,0,41995,1,Posses/Disply Susp/Revk/Frd DL,3,2,franck,louis,3607,1,57,0,0,0,3,0,0,3,0,0,3,0,0,1,0,0,0,0,1
+0,780,0,7,,,,0,,,,0,Purchase Cannabis,8,0,hayden,romario,5389,1,21,0,0,1,1,1,1,8,2,1,1,1,0,0,0,0,0,0,0
+0,1165,0,2,,,,0,,,,0,Possess Cannabis/20 Grams Or Less,3,1,bollman,rachel,7563,0,33,0,0,0,1,0,1,3,0,0,1,0,0,1,0,0,0,0,0
+1,643,0,3,,,,0,Resist/Obstruct W/O Violence,0,643,1,Viol Pretrial Release Dom Viol,8,1,cooper,bertram,913,1,31,0,0,0,3,0,20,8,2,0,3,1,0,0,0,0,0,0,1
+0,672,1,7,,,,0,,,,0,Burglary Structure Unoccup,5,0,madaire,vestin,6284,1,21,0,0,0,0,1,2,5,1,1,0,1,0,0,0,0,0,0,0
+0,537,0,3,,,,0,,,,0,Possession of Cocaine,3,0,emigh,lauren,6110,0,23,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0,0,0,0
+1,648,1,4,,,,0,Driving while DL Susp / Financial Resp,1,647,1,DUI Level 0.15 Or Minor In Veh,2,0,hawthorne,kevin,3766,1,22,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,1
+1,24,0,4,,,,0,Possess Cannabis/20 Grams Or Less,0,24,1,Battery,5,0,alvarez,rodney,7930,1,22,0,0,0,5,0,1,5,1,0,5,0,0,1,0,0,0,0,1
+0,98,0,2,,,,0,,,,0,arrest case no charge,1,2,morrison,harry,8138,1,56,0,0,0,1,1,9,1,0,0,1,1,0,0,0,0,0,0,0
+0,1063,0,1,,,,0,,,,0,Driving License Suspended,3,1,hill,steven,6266,1,44,0,0,0,3,0,1,3,0,0,3,1,0,0,0,0,0,0,0
+0,758,0,1,,,,0,,,,0,arrest case no charge,1,1,wolter,christopher,423,1,37,0,0,0,3,1,3,1,0,0,3,0,0,1,0,0,0,0,0
+0,898,0,1,,,,0,,,,0,Driving Under The Influence,4,1,garcia,sergio,2910,1,42,0,0,0,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0
+1,165,0,5,,,,0,Prowling/Loitering,1,,1,Deliver Cocaine,4,1,thompkins,delton,5145,1,27,1,0,0,2,1,24,4,0,1,2,1,0,0,0,0,0,0,1
+1,250,0,6,Assault,4/1/14,1,1,Resist/Obstruct W/O Violence,0,,1,Battery,6,0,charles,carleb,5723,1,22,0,0,0,2,0,79,6,1,1,2,1,0,0,0,0,0,0,1
+0,125,74,7,Felony Battery w/Prior Convict,19/04/2015,5,1,Viol Injunct Domestic Violence,0,95,1,Criminal Mischief>$200<$1000,7,1,travis,james,9072,1,37,0,0,0,4,0,75,7,1,1,4,1,0,0,0,0,0,0,1
+0,74,61,3,,,,0,,,,0,arrest case no charge,5,1,lewis,britanya,5178,0,31,0,0,0,3,1,62,5,1,0,3,1,0,0,0,0,0,0,0
+1,367,0,1,,,,0,False Ownership Info/Pawn Item,5,367,1,Aiding Escape,1,1,cooper,linton,5367,1,37,0,0,0,3,1,1,1,0,0,3,1,0,0,0,0,0,0,1
+1,779,0,2,,,,0,Possession of Cocaine,5,779,1,Poss Of Controlled Substance,2,2,parker,robert,10302,1,61,0,0,0,14,0,1,2,0,0,14,1,0,0,0,0,0,0,0
+0,160,0,6,,,,0,Possession of Cocaine,5,479,1,arrest case no charge,8,2,crawford,charles,8082,1,59,0,0,0,8,1,9,8,2,1,8,1,0,0,0,0,0,0,1
+0,753,1,1,,,,0,,,,0,DUI Level 0.15 Or Minor In Veh,1,1,coombs,curtis,953,1,29,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+1,45,0,6,Battery,16/12/2015,0,1,Trespass Structure/Conveyance,1,45,1,Poss Contr Subst W/o Prescript,7,1,porter,joe,9509,1,27,0,0,0,9,1,1,7,1,1,9,1,0,0,0,0,0,0,1
+0,1159,1,1,,,,0,,,,0,arrest case no charge,1,2,davis,everley,2406,0,70,0,0,0,1,1,2,1,0,0,1,1,0,0,0,0,0,0,0
+0,885,29,6,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,8,1,nerestant,winnie,310,0,28,0,0,0,0,1,29,8,2,1,0,1,0,0,0,0,0,0,0
+0,494,0,3,,,,0,,,,0,Grand Theft in the 3rd Degree,6,2,berges,osmar,5446,1,48,0,0,0,4,1,1,6,1,0,4,1,0,0,0,0,0,0,0
+0,795,0,1,,,,0,,,,0,Disorderly Conduct,2,2,rodriguez-hernandez,reinaldo,2625,1,51,0,0,0,3,0,2,2,0,0,3,0,0,0,1,0,0,0,0
+0,1174,0,1,,,,0,,,,0,Tamper With Witness/Victim/CI,1,1,alleyne,jamaal,4219,1,35,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+0,72,1,1,,,,0,,,,0,Possession of Cocaine,2,2,anello,anthony,1292,1,48,0,0,0,1,1,1,2,0,0,1,0,0,1,0,0,0,0,0
+0,932,0,1,,,,0,,,,0,Pos Cannabis W/Intent Sel/Del,2,1,munoz,matt,10972,1,32,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0
+1,114,0,8,Throw Deadly Missile Into Veh,30/07/2014,4,1,Driving License Suspended,1,114,1,Grand Theft (Motor Vehicle),8,0,bolden,keyon,6462,1,23,0,0,2,3,1,1,8,2,2,3,1,0,0,0,0,0,0,1
+0,788,1,1,,,,0,,,,0,Grand Theft in the 3rd Degree,3,1,tejada,elsa,1101,0,37,0,0,0,1,1,2,3,0,0,1,0,0,0,1,0,0,0,0
+1,367,0,1,,,,0,Expired DL More Than 6 Months,1,367,1,Battery,1,1,jiron,victor,9171,1,37,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+0,83,0,9,Aggravated Battery / Pregnant,19/02/2015,4,1,Tampering with a Victim,3,588,1,Possess Cannabis/20 Grams Or Less,9,1,bynes,christopher,8548,1,38,1,2,2,22,0,1,9,2,2,22,1,0,0,0,0,0,0,1
+0,1173,0,5,,,,0,,,,0,Battery,2,0,baumann,william,1093,1,21,0,0,0,0,0,1,2,0,1,0,0,0,1,0,0,0,0,0
+1,168,5,6,,,,0,Prowling/Loitering,1,163,1,Battery,6,1,cash,leroy,3438,1,26,0,0,0,0,0,5,6,1,1,0,0,0,1,0,0,0,0,1
+0,950,1,1,,,,0,,,,0,Battery,1,2,abreu,lucia,2595,0,47,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+0,52,3,5,Battery,21/12/2015,1,1,Battery,1,965,1,Tresspass in Structure or Conveyance,6,1,lewis,christopher,10359,1,25,0,0,0,2,0,3,6,1,1,2,1,0,0,0,0,0,0,0
+0,1087,0,1,,,,0,,,0,0,Fail To Secure Load,1,1,brown,rapheal,1081,1,44,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+0,1082,0,4,,,,0,,,0,0,Agg Assault Law Enforc Officer,6,2,regueiro,jesus,2471,1,45,0,0,0,4,1,0,6,1,0,4,0,0,0,1,0,0,0,0
+0,127,0,1,,,,0,Disorderly Conduct,2,0,1,Battery,1,2,colon,susana,1704,0,49,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+0,184,1,3,,,,0,,,,0,Aggrav Battery w/Deadly Weapon,5,1,kitchen,renard,6441,1,36,0,0,0,4,1,1,5,1,0,4,1,0,0,0,0,0,0,0
+1,676,0,10,,,,0,Operating W/O Valid License,1,676,1,arrest case no charge,8,0,brown,jermaine,2019,1,20,2,0,0,2,1,56,8,2,2,2,1,0,0,0,0,0,0,1
+0,55,0,2,,,,0,,,,0,Battery,2,1,lovinsky,audwin,9771,1,38,0,0,0,4,0,1,2,0,0,4,1,0,0,0,0,0,0,0
+0,743,0,1,,,,0,,,,0,Battery,1,1,brownlee,tanika,3036,0,33,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+0,967,0,6,,,,0,,,,0,Grand Theft in the 3rd Degree,4,0,johnson,deshaud,10076,1,21,0,0,0,2,1,34,4,0,1,2,1,0,0,0,0,0,0,0
+0,1134,7,2,,,,0,,,,0,arrest case no charge,2,1,gustave,evens,1864,1,38,0,0,0,1,0,8,2,0,0,1,1,0,0,0,0,0,0,0
+1,1069,0,1,,,,0,,4,1069,1,Driving License Suspended,3,2,campbell,john,8059,1,58,0,0,0,10,0,0,3,0,0,10,0,0,1,0,0,0,0,0
+0,1183,0,3,,,,0,,,0,0,DUI Property Damage/Injury,2,1,rodriguez,williams,323,1,28,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+1,726,0,8,,,,0,Trespass Struct/Conveyance,1,,1,Ride Tri-Rail Without Paying,9,1,ponczkowski,david,8201,1,29,0,0,0,2,0,1,9,2,2,2,0,0,1,0,0,0,0,1
+1,90,1,8,,,,0,Driving License Suspended,1,89,1,Aggrav Battery w/Deadly Weapon,7,1,blue,ladarius,10456,1,28,1,2,0,5,1,2,7,1,2,5,1,0,0,0,0,0,0,1
+1,262,13,8,,,,0,Fail Register Vehicle,1,249,1,Assault,7,0,francis,juliet,2344,0,24,0,0,0,2,0,14,7,1,2,2,1,0,0,0,0,0,0,1
+1,387,12,1,Battery on Law Enforc Officer,26/01/2015,5,1,Battery on Law Enforc Officer,5,375,1,Battery,2,2,rodriguez,george,4959,1,56,0,0,0,10,0,13,2,0,0,10,0,0,0,1,0,0,0,1
+1,83,0,8,Burglary Dwelling Armed,25/07/2013,(F7),1,Robbery Firearm Wearing Mask,3,83,1,Possession of Cocaine,9,1,demard,makendy,9147,1,25,0,0,0,0,1,1,9,2,2,0,0,0,0,0,0,1,0,1
+0,798,1,1,,,,0,,,,0,Battery,1,2,werba,kellie,9246,0,55,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0
+1,31,0,4,,,,0,Resist/Obstruct W/O Violence,0,,1,Battery,5,1,velazquez,jayson,10539,1,32,0,0,0,8,0,1,5,1,0,8,0,0,1,0,0,0,0,1
+0,900,0,3,,,,0,,,,0,Grand Theft in the 3rd Degree,5,1,jean-francois,jermaine,10198,1,35,0,0,0,2,1,1,5,1,0,2,0,0,0,0,0,1,0,0
+0,159,63,2,Arson II (Vehicle),9/3/15,4,1,Possession of Cocaine,5,371,1,Possession of Cocaine,10,2,jackson,jeffrey,10869,1,47,0,0,0,4,1,64,10,2,0,4,1,0,0,0,0,0,0,1
+0,1049,0,5,,,,0,,,0,0,Resist Officer w/Violence,8,1,carter,henry,4500,1,29,0,0,0,5,1,0,8,2,1,5,1,0,0,0,0,0,0,0
+0,328,0,2,,,,0,,,,0,Burglary Conveyance Unoccup,3,1,guacaneme,juan,2946,1,25,0,0,0,1,1,1,3,0,0,1,0,0,1,0,0,0,0,0
+1,145,0,9,Battery,17/06/2015,0,1,Driving License Suspended,1,145,1,Pos Cannabis W/Intent Sel/Del,8,1,veach,richard,142,1,25,0,0,0,9,1,1,8,2,2,9,0,0,1,0,0,0,0,1
+0,947,0,1,,,,0,,,0,0,arrest case no charge,6,2,baynham,tilford,5377,1,69,0,0,0,3,1,0,6,1,0,3,1,0,0,0,0,0,0,0
+1,28,9,4,,,,0,Prowling/Loitering,1,19,1,Burgl Dwel/Struct/Convey Armed,3,0,mcdougle,terrance,2354,1,24,0,0,0,0,1,10,3,0,0,0,1,0,0,0,0,0,0,1
+0,907,0,5,,,,0,,,,0,Battery,4,0,carty,alexis,7242,0,22,0,0,0,0,0,1,4,0,1,0,1,0,0,0,0,0,0,0
+0,988,0,1,,,,0,,,,0,Susp Drivers Lic 1st Offense,2,1,vera,ivan,9906,1,43,0,0,0,4,0,1,2,0,0,4,0,0,1,0,0,0,0,0
+0,1127,0,1,,,,0,,,,0,arrest case no charge,1,2,walters,anthony,5182,1,52,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0
+0,1094,0,2,,,,0,,,,0,Agg Battery Grt/Bod/Harm,2,2,dinapoli,steven,7410,1,50,0,0,0,1,1,1,2,0,0,1,0,0,1,0,0,0,0,0
+0,914,0,2,,,,0,,,,0,Poss Drugs W/O A Prescription,2,1,coby,jonathan,2639,1,31,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0
+0,86,0,3,,,,0,Trespass After Warning,0,87,1,Battery,6,1,mahoney,elizabeth,4960,0,33,0,0,0,1,0,4,6,1,0,1,0,0,1,0,0,0,0,1
+1,88,8,4,,,,0,Resist/Obstruct W/O Violence,0,80,1,Uttering a Forged Instrument,7,1,walraven,courtney,5883,0,29,0,0,0,2,1,9,7,1,0,2,0,0,1,0,0,0,0,1
+0,58,0,3,,,,0,,,,0,Possession of Cocaine,3,0,martinelli,john,1135,1,24,0,0,0,1,1,1,3,0,0,1,0,0,1,0,0,0,0,0
+0,791,0,7,,,,0,,,0,0,Petit Theft,6,1,bethel,nikko,9798,1,26,0,1,0,3,0,0,6,1,1,3,1,0,0,0,0,0,0,0
