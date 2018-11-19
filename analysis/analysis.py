@@ -18,9 +18,18 @@ def age():
     age_group = age_group.astype(int)
     print()
     print('=== AGE ===')
-    print('Below 25:', age_group[0], '(', round(100 * (float)(age_group[0]) / num_people), '%)')
-    print('Between 25-45:', age_group[1], '(', round(100 * (float)(age_group[1]) / num_people), '%)')
-    print('Above 45:', age_group[2], '(', round(100 * (float)(age_group[2]) / num_people), '%)')
+    percentages = [round(100 * (float)(age_group[0]) / num_people), round(100 * (float)(age_group[1]) / num_people), round(100 * (float)(age_group[2]) / num_people)] 
+    print('Below 25:', age_group[0], '(', percentages[0], '%)')
+    print('Between 25-45:', age_group[1], '(', percentages[1], '%)')
+    print('Above 45:', age_group[2], '(', percentages[2], '%)')
+    x_range = range(len(percentages))
+    width = 1 / 1.5 
+    x = ['Below 25', '25-45', 'Above 45']
+    plt.title("Age Breakdown")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('Age Group')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def race():
     RACE_COL = 6
@@ -34,14 +43,23 @@ def race():
                 if (row[30 + i] == '1'):
                     race_breakdown[i] += 1
     race_breakdown = race_breakdown.astype(int)
+    percentages = [round(100 * (float)(race) / num_people) for race in race_breakdown]
     print()
     print('=== RACE ===')
-    print('Caucasian:', race_breakdown[2], '(', round(100 * (float)(race_breakdown[2]) / num_people), '%)')
-    print('African American:', race_breakdown[0], '(', round(100 * (float)(race_breakdown[0]) / num_people), '%)')
-    print('Hispanic:', race_breakdown[3], '(', round(100 * (float)(race_breakdown[3]) / num_people), '%)')
-    print('Asian:', race_breakdown[1], '( %.3f'%(100 * (float)(race_breakdown[1]) / num_people), '%)')
-    print('Native American:', race_breakdown[4], '( %.3f'%(100 * (float)(race_breakdown[4]) / num_people), '%)')
-    print('Other:', race_breakdown[5], '( %.3f'%(100 * (float)(race_breakdown[5]) / num_people), '%)')
+    print('African American:', race_breakdown[0], '( %.3f'%percentages[0], '%)')
+    print('Asian:', race_breakdown[1], '( %.3f'%percentages[1], '%)')
+    print('Caucasian:', race_breakdown[2], '( %.3f'%percentages[2], '%)')
+    print('Hispanic', race_breakdown[3], '( %.3f'%percentages[3], '%)')
+    print('Native American:', race_breakdown[4], '( %.3f'%percentages[4], '%)')
+    print('Other:', race_breakdown[5], '( %.3f'%percentages[5], '%)')
+    x_range = range(len(percentages))
+    width = 1 / 2 
+    x = ['African American', 'Asian', 'Caucasian', 'Hispanic', 'Native American', 'Other']
+    plt.title("Race Breakdown")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('Race')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def gender():
     GENDER_COL = 18
@@ -53,10 +71,19 @@ def gender():
         for row in reader:
             gender_breakdown[(int)(row[GENDER_COL])] += 1
     gender_breakdown = gender_breakdown.astype(int)
+    percentages = [round(100 * (float)(gender) / num_people) for gender in gender_breakdown] 
     print()
     print('=== GENDER ===')
-    print('Male:', gender_breakdown[1], '(', round(100 * (float)(gender_breakdown[1]) / num_people), '%)')
-    print('Female:', gender_breakdown[0], '(', round(100 * (float)(gender_breakdown[0]) / num_people), '%)') 
+    print('Male:', gender_breakdown[1], '(', percentages[1], '%)')
+    print('Female:', gender_breakdown[0], '(', percentages[0], '%)') 
+    x_range = range(len(percentages))
+    width = 1 / 2 
+    x = ['Female', 'Male']
+    plt.title("Gender Breakdown")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('Gender')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def overall_recid():
     OVERALL_RECID_COL = 11
@@ -68,10 +95,19 @@ def overall_recid():
         for row in reader:
             recid[(int)(row[OVERALL_RECID_COL])] += 1
     recid = recid.astype(int)
+    percentages = [round(100 * (float)(did_recid) / num_people) for did_recid in recid] 
     print()
     print('=== OVERALL RECIDIVISM ===')
-    print('Recidivists:', recid[1] , '(', round(100 * (float)(recid[1]) / num_people), '%)')
-    print('Non-recidivists:', recid[0], '(', round(100 * (float)(recid[0]) / num_people), '%)') 
+    print('Recidivists:', recid[1] , '(', percentages[1], '%)')
+    print('Non-recidivists:', recid[0], '(', percentages[0], '%)') 
+    x_range = range(len(percentages))
+    width = 1 / 2 
+    x = ['Did not recidivize', 'Recidivized']
+    plt.title("Recidivism Outcome")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('Recidivism Outcome')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def two_year_recid():
     TWO_YEAR_RECID_COL = 37
@@ -83,10 +119,19 @@ def two_year_recid():
         for row in reader:
             recid[(int)(row[TWO_YEAR_RECID_COL])] += 1
     recid = recid.astype(int)
+    percentages = [round(100 * (float)(did_recid) / num_people) for did_recid in recid] 
     print()
     print('=== TWO-YEAR RECIDIVISM ===')
-    print('Two-year recidivists:', recid[1] , '(', round(100 * (float)(recid[1]) / num_people), '%)')
-    print('Non-two-year recidivists:', recid[0], '(', round(100 * (float)(recid[0]) / num_people), '%)') 
+    print('Two-year recidivists:', recid[1] , '(', percentages[1], '%)')
+    print('Non-two-year recidivists:', recid[0], '(', percentages[0], '%)') 
+    x_range = range(len(percentages))
+    width = 1 / 2 
+    x = ['Did not recidivize within 2 years', 'Recidivized within 2 years']
+    plt.title("2-Year Recidivism Outcome")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('2-Year Recidivism Outcome')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def charge_degree():
     CHARGE_DEGREE_COL = 24
@@ -98,10 +143,19 @@ def charge_degree():
         for row in reader:
             charge_degree[(int)(row[CHARGE_DEGREE_COL])] += 1
     charge_degree = charge_degree.astype(int)
+    percentages = [round(100 * (float)(degree) / num_people) for degree in charge_degree] 
     print()
     print('=== CHARGE DEGREE ===')
-    print('Misdemeanor:', charge_degree[0] , '(', round(100 * (float)(charge_degree[0]) / num_people), '%)')
-    print('Felony:', charge_degree[1], '(', round(100 * (float)(charge_degree[1]) / num_people), '%)') 
+    print('Misdemeanor:', charge_degree[0] , '(', percentages[0], '%)')
+    print('Felony:', charge_degree[1], '(', percentages[1], '%)') 
+    x_range = range(len(percentages))
+    width = 1 / 2 
+    x = ['Misdemeanor', 'Felony']
+    plt.title("Charge Degree")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('Charge Degree')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def recid_violent():
     VIOLENT_RECID_COL = 7
@@ -117,11 +171,20 @@ def recid_violent():
                num_recid += 1
                recid_violent[(int)(row[VIOLENT_RECID_COL])] += 1
     recid_violent = recid_violent.astype(int)
+    percentages = [round(100 * (float)(violence) / num_recid) for violence in recid_violent] 
     print()
     print('=== VIOLENCE AMONG RECIDIVISTS ===')
     print('Total # or recidivists: ', num_recid)
-    print('Recidivists who were violent:', recid_violent[1] , '(', round(100 * (float)(recid_violent[1] / num_recid)), '%)')
-    print('Recidivists who were nonviolent:', recid_violent[0], '(', round(100 * (float)(recid_violent[0] / num_recid)), '%)')
+    print('Recidivists who were violent:', recid_violent[1] , '(', percentages[1], '%)')
+    print('Recidivists who were nonviolent:', recid_violent[0], '(', percentages[0], '%)')
+    x_range = range(len(percentages))
+    width = 1 / 2 
+    x = ['Nonviolent', 'Violent']
+    plt.title("Violence Among Recidivists")
+    plt.bar(x, percentages, width, color="blue")
+    plt.xlabel('Whether Offense Was Violent Among Recidivists')
+    plt.ylabel('Percentage')
+    plt.show()
 
 def recid_prison_duration():
     DURATION_COL = 10
@@ -147,7 +210,7 @@ def recid_prison_duration():
     print('NOTE: Some outliers in duration skewed metrics (i.e. several people were imprisoned for 40 000+ days, whereas most were imprisoned for several hundred days')
     print('NOTE: Sentence duration data unavailable for non-recidivists')
     print('Mean: %.3f'%mu)
-    print('Standard deviation:%.3f'%std_dev)
+    print('Standard deviation: %.3f'%std_dev)
     outliers = [num for num in duration if num > 1000]
     outliers_np = np.asarray(outliers)
  
@@ -174,6 +237,6 @@ gender()
 overall_recid()
 two_year_recid()
 charge_degree()
-recid_prison_duration()
 recid_violent()
+recid_prison_duration()
 print()
