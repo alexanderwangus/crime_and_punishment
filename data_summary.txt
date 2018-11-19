@@ -1,0 +1,42 @@
+=== Overview ===
+Number of people in data set:  7214
+
+=== AGE ===
+Below 25: 1529 ( 21 %)
+Between 25-45: 4109 ( 57 %)
+Above 45: 1576 ( 22 %)
+
+=== RACE ===
+Caucasian: 2454 ( 34 %)
+African American: 3696 ( 51 %)
+Hispanic: 637 ( 9 %)
+Asian: 32 ( 0.444 %)
+Native American: 18 ( 0.250 %)
+Other: 377 ( 5.226 %)
+
+=== GENDER ===
+Male: 5819 ( 81 %)
+Female: 1395 ( 19 %)
+
+=== OVERALL RECIDIVISM ===
+Recidivists: 3471 ( 48 %)
+Non-recidivists: 3743 ( 52 %)
+
+=== TWO-YEAR RECIDIVISM ===
+Two-year recidivists: 3251 ( 45 %)
+Non-two-year recidivists: 3963 ( 55 %)
+
+=== CHARGE DEGREE ===
+Misdemeanor: 2548 ( 35 %)
+Felony: 4666 ( 65 %)
+
+=== PRISON DURATION AMONG RECIDIVISTS ===
+NOTE: Some outliers in duration skewed metrics (i.e. several people were imprisoned for 40 000+ days, whereas most were imprisoned for several hundred days
+NOTE: Sentence duration data unavailable for non-recidivists
+Mean: 1010.708
+Standard deviation:5536.666
+
+=== VIOLENCE AMONG RECIDIVISTS ===
+Total # or recidivists:  3471
+Recidivists who were violent: 819 ( 24 %)
+Recidivists who were nonviolent: 2652 ( 76 %)
