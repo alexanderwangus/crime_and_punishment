@@ -26,11 +26,11 @@ def evaluate(data_set, theta):
 
 def main():
 	train_file = open(TRAIN_PATH, 'r')
-	train_set = csv.reader(train_file, delimiter=',')
+	train_set = list(csv.reader(train_file, delimiter=','))[1:]
 	validate_file = open(VALIDATE_PATH, 'r')
-	validate_set = csv.reader(validate_file, delimiter=',')
+	validate_set = list(csv.reader(validate_file, delimiter=','))[1:]
 	test_file = open(TEST_PATH, 'r')
-	test_set = csv.reader(test_file, delimiter=',')
+	test_set = list(csv.reader(test_file, delimiter=','))[1:]
 
 	theta = train(train_set)
 	print("Theta:", theta)
