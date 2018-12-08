@@ -6,6 +6,10 @@ TRAIN_PATH = 'data/train.csv'
 VALIDATE_PATH = 'data/validate.csv'
 TEST_PATH = 'data/test.csv'
 
+TRAIN_PATH_RACE_BLIND = 'data/train_race_blind.csv'
+VALIDATE_PATH_RACE_BLIND = 'data/validate_race_blind.csv'
+TEST_PATH_RACE_BLIND = 'data/test_race_blind.csv'
+
 FEATURES_TO_IGNORE = ['id', 'first', 'last', 'c_charge_desc', 'r_charge_desc', 'vr_charge_degree', 'vr_charge_desc', 'event', 'age_cat', 'is_recid', 'v_decile_score', 'decile_score', 'vr_offense_date', 'is_violent_recid', 'r_offense_day_from_endjail', 'start', 'end', 'r_charge_degree']
 
 def trim_data(data_set):
@@ -31,6 +35,16 @@ def get_data(path):
 	set = csv.reader(file, delimiter=',')
 	array = np.array(list(set))[1:] # removes column names
 	return trim_data(array)
+
+def get_feature_names():
+	file = open(TRAIN_PATH, 'r')
+	set = csv.reader(file, delimiter=',')
+	return list(set)[0][len(FEATURES_TO_IGNORE):-1]
+
+def get_feature_names_race_blind():
+	file = open(TRAIN_PATH_RACE_BLIND, 'r')
+	set = csv.reader(file, delimiter=',')
+	return list(set)[0][len(FEATURES_TO_IGNORE):-1]
 
 def main():
 	train_race_blind = remove_race_feature(TEST_PATH)
