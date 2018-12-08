@@ -17,8 +17,27 @@ def trim_data(data_set):
 	labels = data_set[...,-1]
 	return np.array(features, dtype=int), np.array(labels, dtype=int)
 
+def remove_race_feature(path):
+	file = open(path, 'r')
+	set = csv.reader(file, delimiter=',')
+	array = list(set)
+	new_array = []
+	for row in array:
+		new_array.append(row[:-8] + [row[-1]])
+	return new_array
+
 def get_data(path):
 	file = open(path, 'r')
 	set = csv.reader(file, delimiter=',')
 	array = np.array(list(set))[1:] # removes column names
 	return trim_data(array)
+
+def main():
+	train_race_blind = remove_race_feature(TEST_PATH)
+	with open('data/test_race_blind.csv', mode='w') as output_file:
+		csv_writer = csv.writer(output_file, delimiter=',')
+		for row in train_race_blind:
+			csv_writer.writerow(row)
+
+if __name__ == '__main__':
+	main()

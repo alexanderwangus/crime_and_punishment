@@ -8,19 +8,18 @@ def train(X, y):
 	return LinearRegression().fit(X, y)
 
 def predict(reg, x):
-	return reg.predict(x)
+	return reg.predict(x.reshape(1, -1))
 
 def evaluate(X, y, reg):
 	correct = 0
 	false = 0
 	for i in range(len(X)):
-		prediction = predict(reg, X[i].reshape(1, -1))[0]
-		# print(prediction, y[i])
+		prediction = predict(reg, X[i])[0]
 		if abs(prediction - y[i]) < abs(prediction - (1 - y[i])):
 			correct += 1
 		else:
 			false += 1
-	return float(false)/(correct + false)
+	return float(correct)/(correct + false)
 
 def main():
 	X_train, y_train = utils.get_data(utils.TRAIN_PATH)
@@ -30,11 +29,10 @@ def main():
 	reg = train(X_train, y_train)
 	print("Coefficients:", reg.coef_)
 
-	validation_error = evaluate(X_validate, y_validate, reg)
-	test_error = evaluate(X_test, y_test, reg)
 
-	print("Validation error:", validation_error)
-	print("Test error:", test_error)
+	print("Train Accuracy: ", evaluate(X_train, y_train, reg))
+	print("Validation Accuracy: ", evaluate(X_validate, y_validate, reg))
+	print("Test Accuracy: ", evaluate(X_test, y_test, reg))
 
 if __name__ == '__main__':
 	main()
