@@ -5,12 +5,21 @@ import math
 import utils
 from matplotlib import pyplot as plt
 
+RACE_BLIND = True
+
 def train(X, y, max_depth=2, criterion='gini', max_features=None):
 	clf = RandomForestClassifier(n_estimators=10, max_depth=max_depth, criterion=criterion, random_state=0, max_features=max_features)
 	clf.fit(X, y)
-	# print("Random Forest Trained. Feature Importances:")
-	# print(clf.feature_importances_)
 	return clf
+
+def print_importances(clf, feature_names):
+	importances = clf.feature_importances_
+	named_importances = []
+	for i in range(len(importances)):
+		named_importances.append((feature_names[i], importances[i]))
+
+	named_importances = sorted(named_importances, key=lambda pair: abs(pair[1]), reverse=True)
+	print("Random Forest Trained. Feature Importances:", named_importances)
 
 def predict(clf, x):
 	return clf.predict(x.reshape(1, -1))
@@ -70,14 +79,22 @@ def plot_vs_max_depth_and_max_features(X_train, y_train, X_validate, y_validate)
 	plt.show()
 
 def main():
-	X_train, y_train = utils.get_data(utils.TRAIN_PATH)
-	X_validate, y_validate = utils.get_data(utils.VALIDATE_PATH)
-	X_test, y_test = utils.get_data(utils.TEST_PATH)
+	if RACE_BLIND:
+		X_train, y_train = utils.get_data(utils.TRAIN_PATH_RACE_BLIND)
+		X_validate, y_validate = utils.get_data(utils.VALIDATE_PATH_RACE_BLIND)
+		X_test, y_test = utils.get_data(utils.TEST_PATH_RACE_BLIND)
+		feature_names = utils.get_feature_names_race_blind()
+	else:
+		X_train, y_train = utils.get_data(utils.TRAIN_PATH)
+		X_validate, y_validate = utils.get_data(utils.VALIDATE_PATH)
+		X_test, y_test = utils.get_data(utils.TEST_PATH)
+		feature_names = utils.get_feature_names()
 
 	# plot_vs_max_depth_and_max_features(X_train, y_train, X_validate, y_validate)
 	# plot_vs_max_depth(X_train, y_train, X_validate, y_validate)
 
 	clf = train(X_train, y_train, max_depth=5, max_features=None)
+	print_importances(clf, feature_names)
 	print("Train Accuracy: ", evaluate(X_train, y_train, clf))
 	print("Validation Accuracy: ", evaluate(X_validate, y_validate, clf))
 	# print("Test Accuracy: ", evaluate(X_test, y_test, clf))
