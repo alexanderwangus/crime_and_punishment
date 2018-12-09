@@ -30,19 +30,26 @@ def remove_race_feature(path):
 		new_array.append(row[:-8] + [row[-1]])
 	return new_array
 
-def get_data(path):
+def get_data(path, race_blind = False, pca = False):
+	if race_blind:
+		path = path[:-4] + '_race_blind.csv'
+
+	if pca:
+		path = path[:-4] + '_pca.csv'
+
 	file = open(path, 'r')
 	set = csv.reader(file, delimiter=',')
 	array = np.array(list(set))[1:] # removes column names
 	return trim_data(array)
 
-def get_feature_names():
-	file = open(TRAIN_PATH, 'r')
-	set = csv.reader(file, delimiter=',')
-	return list(set)[0][len(FEATURES_TO_IGNORE):-1]
+def get_feature_names(path, race_blind = False, pca = False):
+	if race_blind:
+		path = path[:-4] + '_race_blind.csv'
 
-def get_feature_names_race_blind():
-	file = open(TRAIN_PATH_RACE_BLIND, 'r')
+	if pca:
+		path = path[:-4] + '_pca.csv'
+
+	file = open(TRAIN_PATH, 'r')
 	set = csv.reader(file, delimiter=',')
 	return list(set)[0][len(FEATURES_TO_IGNORE):-1]
 

@@ -6,6 +6,7 @@ import utils
 from matplotlib import pyplot as plt
 
 RACE_BLIND = True
+PCA = False
 
 def train(X, y, max_depth=2, criterion='gini', max_features=None):
 	clf = RandomForestClassifier(n_estimators=10, max_depth=max_depth, criterion=criterion, random_state=0, max_features=max_features)
@@ -79,17 +80,10 @@ def plot_vs_max_depth_and_max_features(X_train, y_train, X_validate, y_validate)
 	plt.show()
 
 def main():
-	if RACE_BLIND:
-		X_train, y_train = utils.get_data(utils.TRAIN_PATH_RACE_BLIND)
-		X_validate, y_validate = utils.get_data(utils.VALIDATE_PATH_RACE_BLIND)
-		X_test, y_test = utils.get_data(utils.TEST_PATH_RACE_BLIND)
-		feature_names = utils.get_feature_names_race_blind()
-	else:
-		X_train, y_train = utils.get_data(utils.TRAIN_PATH)
-		X_validate, y_validate = utils.get_data(utils.VALIDATE_PATH)
-		X_test, y_test = utils.get_data(utils.TEST_PATH)
-		feature_names = utils.get_feature_names()
-
+	X_train, y_train = utils.get_data(utils.TRAIN_PATH, race_blind = RACE_BLIND, pca = PCA)
+	X_validate, y_validate = utils.get_data(utils.VALIDATE_PATH, race_blind = RACE_BLIND, pca = PCA)
+	X_test, y_test = utils.get_data(utils.TEST_PATH, race_blind = RACE_BLIND, pca = PCA)
+	feature_names = utils.get_feature_names(utils.TRAIN_PATH, race_blind = RACE_BLIND, pca = PCA)
 	# plot_vs_max_depth_and_max_features(X_train, y_train, X_validate, y_validate)
 	# plot_vs_max_depth(X_train, y_train, X_validate, y_validate)
 
