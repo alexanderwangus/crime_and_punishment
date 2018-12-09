@@ -5,8 +5,8 @@ import math
 import utils
 from matplotlib import pyplot as plt
 
-RACE_BLIND = True
-PCA = False
+RACE_BLIND = False
+PCA = True
 
 def train(X, y, max_depth=2, criterion='gini', max_features=None):
 	clf = RandomForestClassifier(n_estimators=10, max_depth=max_depth, criterion=criterion, random_state=0, max_features=max_features)

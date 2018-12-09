@@ -4,8 +4,8 @@ from sklearn.linear_model import LinearRegression
 import math
 import utils
 
-RACE_BLIND = True
-PCA = False
+RACE_BLIND = False
+PCA = True
 
 def train(X, y):
 	return LinearRegression().fit(X, y)
