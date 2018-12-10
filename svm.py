@@ -65,6 +65,7 @@ def train(train_examples, train_labels, radius):
         alpha -= grad / np.sqrt(ii + 1)
         alpha_avg += alpha
         ii += 1
+    alpha_avg /= (ii + 1) * M_train
     return alpha_avg
 
 def predict(alpha_avg, train_examples, train_labels, test_examples, test_labels, radius):
@@ -73,9 +74,10 @@ def predict(alpha_avg, train_examples, train_labels, test_examples, test_labels,
     M_test = len(test_examples)
     predictions = []
     K = get_kernel(train_examples, test_examples, radius) 
-    W = np.multiply(alpha_avg, train_labels)
+    alpha_y = np.multiply(alpha_avg, train_labels)
     for i in range(M_test):
-        predict = (np.inner(W, K[:, i]) >= 1)
+#        predict = (np.inner(alpha_avg, K[:, i]) >= 1)
+        predict = (np.inner(alpha_y, K[:, i]) > 0)
         predictions.append(predict)
         accuracy[int(test_labels[i])][int(predict)] += 1.0
         label_freq[int(test_labels[i])] += 1.0
