@@ -1,6 +1,7 @@
 # Gaussian kernel SVM
 import numpy as np
 import csv
+import utils
 
 def process_file(file_name, N):
     """
@@ -85,21 +86,39 @@ def predict(alpha_avg, train_examples, train_labels, test_examples, test_labels,
     accuracy[1, :] /= label_freq[1]
     return predictions, accuracy
 
-def run_svm(train_file, test_file, radius, N):
-    train_examples, train_labels = process_file(train_file, N) 
-    test_examples, test_labels = process_file(test_file, N)
+def run_svm(radius, race_blind):
+    train_examples, train_labels = utils.get_data(utils.TRAIN_PATH, race_blind)
+    test_examples, test_labels = utils.get_data(utils.TEST_PATH, race_blind)
     alpha_avg = train(train_examples, train_labels, radius)
     predictions, prediction_accuracy = predict(alpha_avg, train_examples, train_labels, test_examples, test_labels, radius)
+    print('radius = ', radius)
     print('Positive Precision = ', (prediction_accuracy[1][1] / (prediction_accuracy[0][1] + prediction_accuracy[1][1])))
     print('Positive Recall = ', (prediction_accuracy[1][1] / (prediction_accuracy[1][0] + prediction_accuracy[1][1])))
     print('Inverse Precision = ', (prediction_accuracy[0][0] / (prediction_accuracy[0][0] + prediction_accuracy[1][0])))
     print('Inverse Recall = ', (prediction_accuracy[0][0] / (prediction_accuracy[0][0] + prediction_accuracy[0][1])))
     print()
-    return accuracy
 
-run_svm('./Data/train_pca.csv', './Data/test_pca.csv', 0.15, 2)
-run_svm('./Data/train_pca.csv', './Data/test_pca.csv', 0.10, 2)
-run_svm('./Data/train_pca.csv', './Data/test_pca.csv', 0.05, 2)
-run_svm('./Data/train_pca.csv', './Data/test_pca.csv', 0.01, 2)
-run_svm('./Data/train_pca.csv', './Data/test_pca.csv', 0.025, 2)
-run_svm('./Data/train_pca.csv', './Data/test_pca.csv', 0.005, 2)
+print('RACE BLIND:')
+run_svm(0.15, True)
+print('NOT RACE BLIND:')
+run_svm(0.15, False)
+print('RACE BLIND:')
+run_svm(0.10, True)
+print('NOT RACE BLIND:')
+run_svm(0.10, False)
+print('RACE BLIND:')
+run_svm(0.05, True)
+print('NOT RACE BLIND:')
+run_svm(0.05, False)
+print('RACE BLIND:')
+run_svm(0.01, True)
+print('NOT RACE BLIND:')
+run_svm(0.01, False)
+print('RACE BLIND:')
+run_svm(0.025, True)
+print('NOT RACE BLIND:')
+run_svm(0.025, False)
+print('RACE BLIND:')
+run_svm(0.005, True)
+print('NOT RACE BLIND:')
+run_svm(0.005, False)
