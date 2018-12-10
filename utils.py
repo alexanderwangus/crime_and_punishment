@@ -12,9 +12,9 @@ TEST_PATH_RACE_BLIND = 'data/test_race_blind.csv'
 
 FEATURES_TO_IGNORE = ['id', 'first', 'last', 'c_charge_desc', 'r_charge_desc', 'vr_charge_degree', 'vr_charge_desc', 'event', 'age_cat', 'is_recid', 'v_decile_score', 'decile_score', 'vr_offense_date', 'is_violent_recid', 'r_offense_day_from_endjail', 'start', 'end', 'r_charge_degree']
 
-def trim_data(data_set, pca = False):
+def trim_data(data_set, pca = False, num_pca_features = 2):
 	if pca:
-		features = data_set[..., :-1]
+		features = data_set[..., :num_pca_features]
 		labels = data_set[...,-1]
 		return np.array(features, dtype=float), np.array(labels, dtype=float).astype(int)
 	else:
@@ -35,7 +35,7 @@ def remove_race_feature(path):
 		new_array.append(row[:-8] + [row[-1]])
 	return new_array
 
-def get_data(path, race_blind = False, pca = False):
+def get_data(path, race_blind = False, pca = False, num_pca_features = 2):
 	if race_blind:
 		path = path[:-4] + '_race_blind.csv'
 
@@ -45,9 +45,9 @@ def get_data(path, race_blind = False, pca = False):
 	file = open(path, 'r')
 	set = csv.reader(file, delimiter=',')
 	array = np.array(list(set))[1:] # removes column names
-	return trim_data(array, pca = pca)
+	return trim_data(array, pca = pca, num_pca_features = num_pca_features)
 
-def get_feature_names(path, race_blind = False, pca = False):
+def get_feature_names(path, race_blind = False, pca = False, num_pca_features = 2):
 	if race_blind:
 		path = path[:-4] + '_race_blind.csv'
 
@@ -58,7 +58,7 @@ def get_feature_names(path, race_blind = False, pca = False):
 	set = csv.reader(file, delimiter=',')
 
 	if pca:
-		return list(set)[0][:-1]
+		return list(set)[0][:num_pca_features]
 	else:
 		return list(set)[0][len(FEATURES_TO_IGNORE):-1]
 
