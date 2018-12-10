@@ -88,17 +88,18 @@ def predict(x, x_cond_y_mean, x_cond_y_std, priors):
     p = np.multiply(p, priors)
     return p[1] > p[0]
 
-def run_naive_bayes(train_file, test_file, laplace, n):
+def run_naive_bayes(train_file, test_file, laplace, race_blind, n):
     """
     Args:
         train_file: training data file
         test_file: test data file
         laplace: True if user requests laplace smoothing, False otherwise
+        race_blind: True if user requests race blind training, False otherwise
         n: number of features
     """
 
-    train_examples, train_labels = utils.get_data(utils.TRAIN_PATH)
-    test_examples, test_labels = utils.get_data(utils.TEST_PATH)
+    train_examples, train_labels = utils.get_data(utils.TRAIN_PATH, race_blind)
+    test_examples, test_labels = utils.get_data(utils.TEST_PATH, race_blind)
     m_train, n = train_examples.shape
     x_cond_y_mean, x_cond_y_std, priors = train(train_examples, train_labels, m_train, n, laplace)
     prediction_actual = np.zeros((2, 2))
@@ -121,5 +122,8 @@ def print_accuracy(prediction_actual):
 
 print()
 print('=== Naive Bayes ===')
-run_naive_bayes('./Data/train.csv', './Data/test.csv', True, 19)
+print('RACE BLIND')
+run_naive_bayes('./Data/train.csv', './Data/test.csv', True, True, 19)
+print('NOT RACE BLIND')
+run_naive_bayes('./Data/train.csv', './Data/test.csv', True, False, 19)
 print()

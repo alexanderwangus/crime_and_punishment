@@ -1,22 +1,26 @@
-# Modified from cs229 pset 2
+# SVM with RBF kernel
+# Modified from Stanford cs229 pset 2
 
 import numpy as np
 import csv
+import utils
 np.random.seed(123)
 
 
-def train_and_predict_svm(train_matrix, train_labels, test_matrix, radius, test_labels):
-    """Train an SVM model and predict the resulting labels on a test set.
+def train_and_predict_svm(train_matrix, train_labels, test_matrix, test_labels, radius):
+    """
 
     Args: 
-        train_matrix: A numpy array containing the word counts for the train set
-        train_labels: A numpy array containing the spam or not spam labels for the train set
-        test_matrix: A numpy array containing the word counts for the test set
+        train_matrix: A numpy array containing training examples 
+        train_labels: A numpy array containing corresponding labels 
+        test_matrix: A numpy array containing testing examples 
+        test_labels: A numpy array containing corresponding labels
         radius: The RBF kernel radius to use for the SVM
 
     Return: 
     The predicted labels for each message
 	"""
+    print('radius = ', radius)
     model = svm_train(train_matrix, train_labels, radius)
     return svm_predict(model, test_matrix, radius, test_labels)
 
@@ -70,15 +74,8 @@ def svm_predict(state, matrix, radius, test_labels):
     output = (1 + np.sign(preds)) // 2
 
     prediction_accuracy = accuracy(output, test_labels)
-    print('radius: ', radius)
-    print('true negative: ', prediction_accuracy[0][0])
-    print('false positive: ', prediction_accuracy[0][1])
-    print('true positive: ', prediction_accuracy[1][1])
-    print('false negative: ', prediction_accuracy[1][0])
-
     print('Positive Precision = ', (prediction_accuracy[1][1] / (prediction_accuracy[0][1] + prediction_accuracy[1][1])))
     print('Positive Recall = ', (prediction_accuracy[1][1] / (prediction_accuracy[1][0] + prediction_accuracy[1][1])))
-
     print('Inverse Precision = ', (prediction_accuracy[0][0] / (prediction_accuracy[0][0] + prediction_accuracy[1][0])))
     print('Inverse Recall = ', (prediction_accuracy[0][0] / (prediction_accuracy[0][0] + prediction_accuracy[0][1])))
 
@@ -138,13 +135,31 @@ def process_file_features(file_name, feature_indices):
     labels = labels.astype(float)
     return examples, labels
 
-train_examples, train_labels = process_file('./Data/train_pca.csv', 19)
-test_examples, test_labels = process_file('./Data/test_pca.csv', 19)
-train_and_predict_svm(train_examples, train_labels, test_examples, 0.15, test_labels) 
-train_and_predict_svm(train_examples, train_labels, test_examples, 0.10, test_labels)
-train_and_predict_svm(train_examples, train_labels, test_examples, 0.05, test_labels)
-train_and_predict_svm(train_examples, train_labels, test_examples, 0.01, test_labels)
-train_and_predict_svm(train_examples, train_labels, test_examples, 0.025, test_labels)
-train_and_predict_svm(train_examples, train_labels, test_examples, 0.005, test_labels)
-# train_examples, train_labels = process_file('./Data/train/pca.csv', )
-# test_examples, test_labels = process_file('./Data/test_pca.csv', 2)
+train_examples_rb, train_labels_rb = utils.get_data(utils.TRAIN_PATH, True) 
+test_examples_rb, test_labels_rb = utils.get_data(utils.TEST_PATH, True)
+train_examples_nrb, train_labels_nrb = utils.get_data(utils.TRAIN_PATH, False) 
+test_examples_nrb, test_labels_nrb = utils.get_data(utils.TEST_PATH, False)
+print("RACE BLIND")
+train_and_predict_svm(train_examples_rb, train_labels_rb, test_examples_rb, test_labels_rb, 0.15) 
+print("NOT RACE BLIND")
+train_and_predict_svm(train_examples_nrb, train_labels_nrb, test_examples_nrb, test_labels_nrb, 0.15) 
+print("RACE BLIND")
+train_and_predict_svm(train_examples_rb, train_labels_rb, test_examples_rb, test_labels_rb, 0.10) 
+print("NOT RACE BLIND")
+train_and_predict_svm(train_examples_nrb, train_labels_nrb, test_examples_nrb, test_labels_nrb, 0.10) 
+print("RACE BLIND")
+train_and_predict_svm(train_examples_rb, train_labels_rb, test_examples_rb, test_labels_rb, 0.05)
+print("NOT RACE BLIND")
+train_and_predict_svm(train_examples_nrb, train_labels_nrb, test_examples_nrb, test_labels_nrb, 0.05)
+print("RACE BLIND")
+train_and_predict_svm(train_examples_rb, train_labels_rb, test_examples_rb, test_labels_rb, 0.01)
+print("NOT RACE BLIND")
+train_and_predict_svm(train_examples_nrb, train_labels_nrb, test_examples_nrb, test_labels_nrb, 0.01) 
+print("RACE BLIND")
+train_and_predict_svm(train_examples_rb, train_labels_rb, test_examples_rb, test_labels_rb, 0.025)
+print("NOT RACE BLIND")
+train_and_predict_svm(train_examples_nrb, train_labels_nrb, test_examples_nrb, test_labels_nrb, 0.025)
+print("RACE BLIND")
+train_and_predict_svm(train_examples_rb, train_labels_rb, test_examples_rb, test_labels_rb, 0.005)
+print("NOT RACE BLIND")
+train_and_predict_svm(train_examples_nrb, train_labels_nrb, test_examples_nrb, test_labels_nrb, 0.005) 
