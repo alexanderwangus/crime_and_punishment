@@ -31,8 +31,6 @@ def process_file(file_name, n):
 
 def train(examples, labels, m, n, laplace):
     """
-    Trains model using the naive bayes algorithm
-
     Args:
         examples: np matrix with dimension (m, n) containing examples
         labels: np matrix with dimension (m) containing corresponding labels 
@@ -93,8 +91,8 @@ def predict(x, x_cond_y_mean, x_cond_y_std, priors):
 def run_naive_bayes(train_file, test_file, laplace, n):
     """
     Args:
-        train: training data file
-        test: test data file
+        train_file: training data file
+        test_file: test data file
         laplace: True if user requests laplace smoothing, False otherwise
         n: number of features
     """
